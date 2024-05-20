@@ -1,0 +1,78 @@
+Title: Records
+
+Table:
+- Column 1: Score
+- Column 2: Batsmen
+- Column 3: Against
+- Column 4: Location
+- Column 5: Year
+
+Row 1:
+- Score: 37
+- Batsmen: Matthew Elliott and Steve James
+- Against: Sussex
+- Location: Colwyn Bay
+- Year: 2002
+
+Row 2:
+- Score: 252
+- Batsmen: Mark Maynard and Dave Hemp
+- Against: Northamptonshire
+- Location: Southampton
+- Year: 2002
+
+Row 3:
+- Score: 131
+- Batsmen: Emrys Maynard and Willie Jones
+- Against: Brentwood
+- Location: Essex
+- Year: 1998
+
+Row 4:
+- Score: 42 *
+- Batsmen: Adrian Davies and Viv Richards
+- Against: Middlesex
+- Location: Middlesex
+- Year: 1993
+
+Row 5:
+- Score: 245 *
+- Batsmen: Maurice Smith and Richard Montgomerie
+- Against: Hampshire
+- Location: Bournemouth
+- Year: 1994
+
+Row 6:
+- Score: 226
+- Batsmen: Allenby Gibbons and Tony O'Cotty
+- Against: Surrey
+- Location: The Oval
+- Year: 1999
+
+Row 7:
+- Score: 211
+- Batsmen: Cottley and Otty Gibson
+- Against: Sussex
+- Location: Swanscombe
+- Year: 2003
+
+Row 8:
+- Score: 202
+- Batsmen: Dave Hills and Joe Hill
+- Against: Eastbourne
+- Location: Eastbourne
+- Year: 1928
+
+Row 9:
+- Score: 134
+- Batsmen: Tony Hills and John Clay
+- Against: Dorset
+- Location: Dorset
+- Year: 1929
+
+Row 10:
+- Score: 143
+- Batsmen: Simon Davies and David Daniels
+- Against: Gloucestershire
+- Location: Gloucestershire
+- Year: 1982

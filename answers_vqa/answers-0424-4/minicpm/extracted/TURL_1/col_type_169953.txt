@@ -1,0 +1,13 @@
+Title: rider
+
+Table:
+- Column 1: rider
+  - Valentina Scandoliera (ITA)
+  - Grace Sulzberger (AUS)
+  - Jayco-AIS
+  - Carlee Taylor (AUS)
+
+- Column 2: from
+  - Mippollini Giordana
+  - Jayco-AIS
+  - Lotto Belisol Ladies

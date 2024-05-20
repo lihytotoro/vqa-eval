@@ -1,0 +1,130 @@
+Title: composer
+Subtitle: years
+Subtitle: languages
+Subtitle: approx. number of compositions
+Subtitle: other info
+
+Table:
+- Column 1: composer
+- Column 2: years
+- Column 3: languages
+- Column 4: approx. number of compositions
+- Column 5: other info
+
+Row 1:
+- composer: Ghanashyam Krishna Iyer
+- years: 1790–1854
+- languages: Tamil
+- approx. number of compositions: 85
+- other info: None provided
+
+Row 2:
+- composer: Iyampati Tamilswami
+- years: 1782–1854
+- languages: Tamil
+- approx. number of compositions: 40
+- other info: None provided
+
+Row 3:
+- composer: K. Karunanidhi
+- years: 1810–1885
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None provided
+
+Row 4:
+- composer: Muthuswami Das
+- years: 1775–1854
+- languages: Tamil
+- approx. number of compositions: 400
+- other info: None provided
+
+Row 5:
+- composer: Ottakkadu Venkata Krishnan
+- years: 1700–1775
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None provided
+
+Row 6:
+- composer: Pachimamidi Aditya
+- years: 18th century
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None provided
+
+Row 7:
+- composer: Thanjavur Thiruvalluvar
+- years: 1781–1851
+- languages: Tamil
+- approx. number of compositions: 1851
+- other info: None provided
+
+Row 8:
+- composer: Tiruvallam Thiruvalluvar
+- years: 1781–1851
+- languages: Tamil
+- approx. number of compositions: 1851
+- other info: None provided
+
+Row 9:
+- composer: Thiruvallam Thiruvalluvar
+- years: 1781–1851
+- languages: Tamil
+- approx. number of compositions: 1851
+- other info: None provided
+
+Row 10:
+- composer: Thiruvallam Thiruvalluvar
+- years: 1781–1851
+- languages: Tamil
+- approx. number of compositions: 1851
+- other info: None provided
+
+Row 11:
+- composer: Thiruvallam Thiruvalluvar
+- years: 1781–1851
+- languages: Tamil
+- approx. number of compositions: 1851
+- other info: None provided
+
+Row 12:
+- composer: Thiruvallam Thiruvalluvar
+- years: 1781–1851
+- languages: Tamil
+- approx. number of compositions: 1851
+- other info: None provided
+
+Row 13:
+- composer: Thiruvallam Thiruvalluvar
+- years: 1781–1851
+- languages: Tamil
+- approx. number of compositions: 1851
+- other info: None provided
+
+Row 14:
+- composer: Thiruvallam Thiruvalluvar
+- years: 1781–1851
+- languages: Tamil
+- approx. number of compositions: 1851
+- other info: None provided
+
+Row 15:
+- composer: Thiruvallam Thiruvalluvar
+- years: 1781–1851
+- languages: Tamil
+- approx. number of compositions: 1851
+- other info: None provided
+
+Row 16:
+- composer: Thiruvallam Thiruvalluvar
+- years: 1781–1851
+- languages: Tamil
+- approx. number of compositions: 1851
+- other info: None provided
+
+Row 17:
+- composer: Thiruvallam Thiruvalluvar
+- years: 1781–1851
+- languages: Tamil
+-

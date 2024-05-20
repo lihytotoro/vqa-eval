@@ -1,0 +1,67 @@
+Title: Records
+
+Table:
+- Column 1: Batsmen
+- Column 2: Against
+- Column 3: Location
+- Column 4: Year
+
+Row 1:
+- Batsmen: Matthew Elliott and Steve James
+- Against: Sussex
+- Location: Colwyn Bay 2002
+- Year: 2002
+
+Row 2:
+- Batsmen: Matthew Maynard and David Hemp
+- Against: Northamptonshire
+- Location: Southampton Gardens 2002
+- Year: 2002
+
+Row 3:
+- Batsmen: Emrys Davies and Willie Jones
+- Against: Brentwood
+- Location: Middlesex 1983
+- Year: 1983
+
+Row 4:
+- Batsmen: Adrian Dale and Viv Richards
+- Against: Middlesex 1983
+- Location: Southampton 1983
+- Year: 1983
+
+Row 5:
+- Batsmen: Maurice Robinson and Mark Wallace
+- Against: Hampshire
+- Location: Bournemouth 1949
+- Year: 1949
+
+Row 6:
+- Batsmen: Allen Bingley and Mark Wallace
+- Against: The Surrey 1994
+- Location: The Oval 1994
+- Year: 1994
+
+Row 7:
+- Batsmen: Tony Cottie and Os Gibson
+- Against: Leicestershire
+- Location: Swindon 1996
+- Year: 1996
+
+Row 8:
+- Batsmen: Dai Davies and Joe Hills
+- Against: Eastbourne 1982
+- Location: Eastbourne 1982
+- Year: 1982
+
+Row 9:
+- Batsmen: Johnny Clay and Joe Hills
+- Against: Swindon 1982
+- Location: Swindon 1982
+- Year: 1982
+
+Row 10:
+- Batsmen: Terry Dawson and Simon Daniels
+- Against: Gloucestershire
+- Location: Swindon 1982
+- Year: 1982

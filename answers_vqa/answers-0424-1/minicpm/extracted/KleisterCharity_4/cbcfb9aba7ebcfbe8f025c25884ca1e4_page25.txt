@@ -1,0 +1,18 @@
+Title: Bishop Grosseteste University
+Subtitle: Financial Statements
+
+Heading: 4. Other income
+Subheading: Notes to the financial statements (continued)
+
+Table:
+- Column Headers: 2015 £000, 2014 £000
+- Row 1: Residences, catering and conferences, 1,868, 1,768
+- Row 2: Non-Funding Council Grants Released (Note 16), 46, 46
+- Row 3: Other Income, 1,208, 517
+- Row 4: Total Other Income, 3,122, 3,231
+
+Footer: Investment income from short-term deposits, 2015 £000, 2014 £000
+Other interest receivable, 2015 £000, 2014 £000
+Interest on FRS 17 Liability (Note 24), 2015 £000, 2014 £000
+
+Page Number: Page | 23

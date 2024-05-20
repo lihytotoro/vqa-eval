@@ -1,0 +1,60 @@
+Title: Notes to the consolidated financial statements continued
+
+Subtitle: 9. Finance income and costs
+
+Table:
+- Column headers: Finance income, Bank deposits, Hedge ineffectiveness, Total finance income
+- Row headers: 2021 £, 2020 £
+- Data:
+  - Finance income: 0.9, 0.9
+  - Bank deposits: 1.5, 1.5
+  - Hedge ineffectiveness: -0.9, -0.9
+  - Total finance income: 0.9, 0.9
+
+Subtitle: 10. Taxation a) Tax on profit
+
+Table:
+- Column headers: 2021 £, 2020 £
+- Data:
+  - Income statement: 1.5, 1.5
+  - Current income tax: -0.9, -0.9
+  - Current income tax charge: 2.3, 2.3
+  - Amounts over provided in previous years: (22.6), (17.7)
+  - Total current income tax charge: 2.3, 2.2
+  - Total current income tax charge: (20.3), (15.5)
+  - Total current income tax charge: (15.6), (15.5)
+  - Total current income tax charge: (15.8), (15.5)
+  - Total current income tax charge: (15.9), (15.5)
+  - Total current income tax charge: (16.0), (15.5)
+  - Total current income tax charge: (16.1), (15.5)
+  - Total current income tax charge: (16.2), (15.5)
+  - Total current income tax charge: (16.3), (15.5)
+  - Total current income tax charge: (16.4), (15.5)
+  - Total current income tax charge: (16.5), (15.5)
+  - Total current income tax charge: (16.6), (15.5)
+  - Total current income tax charge: (16.7), (15.5)
+  - Total current income tax charge: (16.8), (15.5)
+  - Total current income tax charge: (16.9), (15.5)
+  - Total current income tax charge: (17.0), (15.5)
+  - Total current income tax charge: (17.1), (15.5)
+  - Total current income tax charge: (17.2), (15.5)
+  - Total current income tax charge: (17.3), (15.5)
+  - Total current income tax charge: (17.4), (15.5)
+  - Total current income tax charge: (17.5), (15.5)
+  - Total current income tax charge: (17.6), (15.5)
+  - Total current income tax charge: (17.7), (15.5)
+  - Total current income tax charge: (17.8), (15.5)
+  - Total current income tax charge: (17.9), (15.5)
+  - Total current income tax charge: (18.0), (15.5)
+  - Total current income tax charge: (18.1), (15.5)
+  - Total current income tax charge: (18.2), (15.5)
+  - Total current income tax charge: (18.3), (15.5)
+  - Total current income tax charge: (18.4), (15.5)
+  - Total current income tax charge: (18.5), (15.5)
+  - Total current income tax charge: (18.6), (15.5)
+  - Total current income tax charge: (18.7), (15.5)
+  - Total current income tax charge: (18.8), (15.5)
+  - Total current income tax charge: (18.9), (15.5)
+  - Total current income tax charge: (19.0), (15.5)
+  - Total current income tax charge: (19.1), (15.5)
+  - Total current income

@@ -1,0 +1,24 @@
+Title: Mixed martial arts record
+
+Table:
+- Column Headers: Record, Opponent, Method, Event, Location, Round
+- Row 1: Loss, 11-9, Brandon Lee (TKO), Knockouts, DFL 1 - The Big Bang, Atlantic City, New Jersey, United States
+- Row 2: Loss, 11-8, Ray Sefo (KO), Unanimous Decision, Strikeforce Challengers: Kennedy vs. Cummings, Bixby, Oklahoma, United States
+- Row 3: Loss, 11-7, Patrick Smith (Decision), Unanimous Decision, American Steel Cage Fighting, Salem, New Hampshire, United States
+- Row 4: Loss, 11-6, Joel Whittaker (Decision), Unanimous Decision, RIE - Battle at the Burg, Harrisonburg, Virginia, United States
+- Row 5: Loss, 11-5, Marco Sanchez (Decision), Unanimous Decision, FFP - Untamed 22, Plymouth, Massachusetts, United States
+- Row 6: Loss, 11-4, Carlos Moreno (Submission), Unanimous Decision, BCX - Battle Xtreme 3, Atlantic City, New Jersey, United States
+- Row 7: Loss, 11-3, Chris Herring (Submission), Unanimous Decision, Wild's Bill - Fight Night 6, Duluth, Georgia, United States
+- Row 8: Loss, 11-2, Todd Jakowski (KO), Unanimous Decision, FFP - Untamed 3, Brockton, Massachusetts, United States
+- Row 9: Loss, 11-1, Gabriel Gonzaga (KO), Unanimous Decision, UFC 56, Las Vegas, Nevada, United States
+- Row 10: Loss, 10-8, Paul Buentello (Submission), Unanimous Decision, FFC 13 - Freestyle Fighting Championships, Atlantic City, New Jersey, United States
+- Row 11: Loss, 10-7, Johnathan Dixon (Decision), Unanimous Decision, FFC 11 - Explosion, Biloxi, Mississippi, United States
+- Row 12: Loss, 10-6, Eric Lovelock (Decision), Unanimous Decision, FFC 10 - Explosion, Fontana, Wisconsin, United States
+- Row 13: Loss, 10-5, Kerry Schall (Submission), Unanimous Decision, FFC 8 - Freestyle Fighting Championships, Biloxi, Mississippi, United States
+- Row 14: Loss, 10-4, Steve Cifert (KO), Unanimous Decision, FFC 7 - Xtreme Fight Club, Morgan City, Louisiana, United States
+- Row 15: Loss, 10-3, Jayme McIntyre (Submission), Unanimous Decision, IBC - International Cage Brawl, Birmingham, Alabama, United States
+- Row 16: Loss, 10-2, Sean Seale (Decision), Majority Decision, Tennessee Shootout - Conquest, Clarksville, Tennessee, United States
+- Row 17: Loss, 10-1, Travis Huff (KO), Unanimous Decision, UW - Ultimate Wrestling, Minneapolis, Minnesota, United States
+- Row 18: Loss, 10-0, Corey Williams (KO), Bouts 2 - Bikes, Bells Gardens, California, United States
+- Row 19: Loss, 9-9, Kelly Williams (KO), Bouts 9 - Bikes, Honolulu, Hawaii, United States
+- Row 20: Loss, 9-8, Tommy Kelly (KO), Bouts 8 - Bikes, Gainesville, Georgia, United States

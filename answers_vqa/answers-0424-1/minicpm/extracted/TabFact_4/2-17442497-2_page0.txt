@@ -1,0 +1,80 @@
+Title: Mixed martial arts
+
+Table:
+
+- Column 1: Loss
+  - Row 1: 11-9
+  - Row 2: 11-10
+  - Row 3: 11-8
+  - Row 4: 11-7
+  - Row 5: 11-6
+  - Row 6: 11-5
+  - Row 7: 11-4
+  - Row 8: 11-3
+  - Row 9: 11-2
+  - Row 10: 11-1
+  - Row 11: 11-0
+  - Row 12: 10-9
+  - Row 13: 10-8
+  - Row 14: 10-7
+  - Row 15: 10-6
+  - Row 16: 10-5
+  - Row 17: 10-4
+  - Row 18: 10-3
+  - Row 19: 10-2
+  - Row 20: 10-1
+  - Row 21: 10-0
+
+- Column 2: Opponent
+  - Row 1: Lee Hinkle (Kickouts)
+  - Row 2: Ray Sefo (TKO)
+  - Row 3: Patrick Smith (Unanimous Decision)
+  - Row 4: Marco Sanchez (Decision (Unanimous))
+  - Row 5: Carlos Marquez (Decision (Unanimous))
+  - Row 6: Win Carosone (Submission (strike))
+  - Row 7: Chris Herring (KO)
+  - Row 8: Josh Dieckman (TKO)
+  - Row 9: Gabriel Gonzaga (KO)
+  - Row 10: Gabe Johnson (KO)
+  - Row 11: Gabriel Gonzaga (KO)
+  - Row 12: Gabe Johnson (KO)
+  - Row 13: Gabe Johnson (KO)
+  - Row 14: Gabe Johnson (KO)
+  - Row 15: Gabe Johnson (KO)
+  - Row 16: Gabe Johnson (KO)
+  - Row 17: Gabe Johnson (KO)
+  - Row 18: Gabe Johnson (KO)
+  - Row 19: Gabe Johnson (KO)
+  - Row 20: Gabe Johnson (KO)
+  - Row 21: Gabe Johnson (KO)
+  - Row 22: Gabe Johnson (KO)
+  - Row 23: Gabe Johnson (KO)
+  - Row 24: Gabe Johnson (KO)
+  - Row 25: Gabe Johnson (KO)
+  - Row 26: Gabe Johnson (KO)
+  - Row 27: Gabe Johnson (KO)
+  - Row 28: Gabe Johnson (KO)
+  - Row 29: Gabe Johnson (KO)
+  - Row 30: Gabe Johnson (KO)
+  - Row 31: Gabe Johnson (KO)
+  - Row 32: Gabe Johnson (KO)
+  - Row 33: Gabe Johnson (KO)
+  - Row 34: Gabe Johnson (KO)
+  - Row 35: Gabe Johnson (KO)
+  - Row 36: Gabe Johnson (KO)
+  - Row 37: Gabe Johnson (KO)
+  - Row 38: Gabe Johnson (KO)
+  - Row 39: Gabe Johnson (KO)
+  - Row 40: Gabe Johnson (KO)
+  - Row 41: Gabe Johnson (KO)
+  - Row 42: Gabe Johnson (KO)
+  - Row 43: Gabe Johnson (KO)
+  - Row 44: Gabe Johnson (KO)
+  - Row 45: Gabe Johnson (KO)
+  - Row 46: Gabe Johnson (KO)
+  - Row 47: Gabe Johnson (KO)
+  - Row 48: Gabe Johnson (KO)
+  - Row 49: Gabe Johnson (KO)
+  - Row 50: Gabe Johnson (KO)
+  - Row 51: Gabe Johnson (KO)
+  - Row 52: G

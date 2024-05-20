@@ -1,0 +1,40 @@
+Header:
+Integrity Systems Company
+A Subsidiary of Meat & Livestock Australia
+NLIS Database
+Interface Specification
+Part 3 – Sample Files
+Released: 20 July 2021
+Page: 79 of 141
+Document Version 9.27
+Schema Version 2.0/2.1
+Reviewed by: M. Fahim
+Approved by: P. Quigley
+
+Title:
+Device Status In PIC Upload - Result
+
+Body (XML Content):
+```xml
+<SOAP-ENV:Envelope
+  xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+  xmlns:nlis="http://www.nlis.com.au/soap/ver2.0/nlis-soap.xsd">
+  <SOAP-ENV:Body>
+    <nlis:DeviceStatusInPICUpload-Result>
+      <nlis:transaction-id>79513</nlis:transaction-id>
+      <nlis:devicestatusinpic-results-grp tag="PICTEST0">
+        <nlis:status>Success</nlis:status>
+        <nlis:message-grp>
+          <nlis:type>Information</nlis:type>
+          <nlis:message-no>OK</nlis:message-no>
+          <nlis:text>SUCCESS</nlis:text>
+          <nlis:action />
+        </nlis:message-grp>
+      </nlis:devicestatusinpic-results-grp>
+    </nlis:DeviceStatusInPICUpload-Result>
+  </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+```
+
+Footer:
+Disclaimer: Care is taken to ensure the accuracy of the information contained in this document. However ISC cannot accept responsibility for the accuracy or completeness of the information or opinions contained in the document. You should make your own enquiries before making decisions concerning your interests.

@@ -1,0 +1,18 @@
+Title: Incidence of child labor in the UK, 1901
+
+Subtitle: Share of boys and girls (ages 10-14) recorded as worked
+
+Bar Chart:
+- Child labor UK (boys, historic): 21.9%
+- Child labor UK (girls, historic): 12%
+- Child labor UK (boys, current): 15%
+- Child labor UK (girls, current): 10%
+- Child labor UK (boys, historic): 5%
+- Child labor UK (girls, historic): 0%
+- Child labor UK (boys, current): 0%
+- Child labor UK (girls, current): 0%
+
+Source: Cunningham, H. and Vazzio, P. (1996).
+OurWorldInData.org/child-labor-in-historical-perspective-1800-1985. Cases Studies from Europe. Japan and
+
+Logo: OurWorldInData.org

@@ -1,0 +1,43 @@
+Title:
+Teladoc HEALTH
+
+Main Heading:
+Our impact on the U.S. healthcare system
+
+Section 1 (Top left box with graph):
+Subtitle: Expanding capacity for healthcare system under strain
+Body: 
+- Number of visits
+- 10k visits
+- 15k visits
+- 20k visits
+- March 2020
+
+Section 2 (Top right box with map):
+Subtitle: Meeting the needs of people wherever they are
+Body: 
+- Suspected COVID-19 case rates*
+- 1 in 10 have suspected COVID-19 symptoms
+- *Range (300-4,000) projected usual (2000-5000) annual flu. Time period: Last 4 weeks (March-April 2020).
+
+Section 3 (Middle left box with clock icon):
+Subtitle: Responding to patients in less than
+Body: 
+- 15 minutes
+
+Section 4 (Middle right box with people icons):
+Subtitle: Treating a broad spectrum of needs
+Body: 
+- 9 in 10 visits are for non-COVID cases
+- Non-COVID cases:
+   - Allergy
+   - Rash
+   - Infection
+   - Mental health
+
+Footer (Yellow box):
+Text: Learn more at TeladocHealth.com/Coronavirus
+Hashtag: #frontdoor2care
+
+Disclaimer at the bottom:
+© 2020 Teladoc Health, Inc. All rights reserved.

@@ -1,0 +1,23 @@
+Title: MANPOWER, INC.
+
+Header Right: WOHL CLINIC
+Header Right Sub: ORDER NO. 46158
+
+Reference Code: PA73WBC44
+Date Right: 5-5-61
+Request Number: Req. 47-29386
+
+Body:
+- G. Guidi week ending 4-9-61 40 hours 88.80
+- J. Jordan week ending 4-9-61 40 hours 76.00
+- D. Pogue week ending 4-9-61 40 hours 76.00
+- L. Rodenhauser week ending 4-9-61 40 hours 76.00
+- L. Cottrell 8 hours 15.20
+
+Footer: CONFIRMING MAT/INV. REC'D.
+
+Total: 332.00
+
+Note: Sent copies to Hill & Miss Kaiser 5/23/61
+
+Source Link: Source: https://www.industrydocuments.ucsf.edu/docs/fhng0227

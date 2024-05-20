@@ -1,0 +1,58 @@
+The image contains the following text:
+Records
+Score
+Batsmen
+Against
+Location
+Year
+372
+Matthew Elliott and Steve James
+Sussex
+Colwyn Bay
+2000
+372
+Matthew Maynard and David Hemp
+Sussex
+Northamptonshire
+1998
+372
+Emrys Davies and Willie Jones
+Middlesex
+Sophia Gardens
+1993
+372
+Adrian Dale and Viv Richards
+Suffolk
+Hampshire
+1994
+372
+Maurice Russell and Stan Montague
+Suffolk
+Bournemouth
+1999
+372
+Jim Allen and Mark Wall
+Suffolk
+Surrey
+2009
+372
+Tony Cotty and Otis Gibson
+Swansea
+Wales
+1998
+372
+Dai Jie and Joe Hill
+Worcestershire
+Eastbourne
+1998
+372
+Joe Hill and John Clay
+Worcestershire
+Eastbourne
+1998
+372
+Terry Dawson and Simon Daniels
+Gloucestershire
+Gloucester
+1992
+372

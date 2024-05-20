@@ -1,0 +1,143 @@
+Title: composer
+
+Table:
+- Column 1: years
+- Column 2: languages
+- Column 3: approx. number of compositions
+- Column 4: other info
+
+Row 1:
+- years: 1790-1854
+- languages: Tamil
+- approx. number of compositions: 85
+- other info: None
+
+Row 2:
+- years: 1782-1865
+- languages: Tamil
+- approx. number of compositions: 40
+- other info: None
+
+Row 3:
+- years: 1810-1865
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 4:
+- years: 1775-1854
+- languages: Tamil
+- approx. number of compositions: 400
+- other info: None
+
+Row 5:
+- years: 1760-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 6:
+- years: 1750-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 7:
+- years: 1700-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 8:
+- years: 1685-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 9:
+- years: 1678-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 10:
+- years: 1667-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 11:
+- years: 1653-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 12:
+- years: 1647-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 13:
+- years: 1638-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 14:
+- years: 1637-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 15:
+- years: 1626-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 16:
+- years: 1618-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 17:
+- years: 1617-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 18:
+- years: 1616-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 19:
+- years: 1615-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 20:
+- years: 1614-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 21:
+- years: 1613-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 22:
+- years: 1612-1854
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: None
+
+Row 23:
+- years: 1611-1854
+- languages: Tamil

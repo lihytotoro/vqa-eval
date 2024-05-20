@@ -1,0 +1,62 @@
+Title: Notes to the consolidated financial statements continued
+
+Subtitle: 9. Finance income and costs
+
+Table:
+- Column headers: Finance income, Bank deposits, Hedge ineffectiveness, Total finance income
+- Row headers: 2021 £, 2020 £
+- Rows:
+  - Finance income: 0.9, 0.9
+  - Bank deposits: 1.5, 1.5
+  - Hedge ineffectiveness: -0.9, -0.9
+  - Total finance income: -0.9, -0.9
+
+Subtitle: 10. Taxation a Tax on profit
+
+Table:
+- Column headers: Income statement, Current income tax, Current income tax charge, Amounts over provided in previous years, Total current income tax charge
+- Row headers: 2021 £, 2020 £
+- Rows:
+  - Income statement: (22.6), (17.7)
+  - Current income tax: (23.3), (2.2)
+  - Current income tax charge: (23.3), (2.2)
+  - Amounts over provided in previous years: (20.3), (15.5)
+  - Total current income tax charge: (20.3), (15.5)
+
+Subtitle: Total current income tax charge
+
+Table:
+- Column headers: Income statement, Current income tax, Current income tax charge, Amounts over provided in previous years, Total current income tax charge
+- Row headers: 2021 £, 2020 £
+- Rows:
+  - Income statement: (7.6), (7.6)
+  - Current income tax: (12.1), (12.1)
+  - Current income tax charge: (1.6), (1.6)
+  - Amounts over provided in previous years: (19.1), (19.1)
+  - Total current income tax charge: (19.1), (19.1)
+
+Subtitle: Statement of comprehensive income
+
+Table:
+- Column headers: Income statement, Defined benefit pension, Defined benefit pension for hedge account, Current income tax, Current income tax charge, Amounts over provided in previous years, Total current income tax charge
+- Row headers: 2021 £, 2020 £
+- Rows:
+  - Income statement: (12.0), (12.0)
+  - Defined benefit pension: (12.0), (12.0)
+  - Defined benefit pension for hedge account: (6.4), (6.4)
+  - Current income tax: (12.0), (12.0)
+  - Current income tax charge: (12.0), (12.0)
+  - Amounts over provided in previous years: (12.0), (12.0)
+  - Total current income tax charge: (12.0), (12.0)
+
+Subtitle: Statement of changes in equity
+
+Table:
+- Column headers: Current tax on share options exercised, Deferred tax on share options granted to employees, Total tax (charge)/credit in the statement of changes in equity
+- Row headers: 2021 £, 2020 £
+- Rows:
+  - Current tax on share options exercised: (0.3), (0.3)
+  - Deferred tax on share options granted to employees: (0.2), (0.2)
+  - Total tax (charge)/credit in the statement of changes in equity: (0.5), (0.5)
+
+Footer: Britvic Annual Report and Accounts 2021

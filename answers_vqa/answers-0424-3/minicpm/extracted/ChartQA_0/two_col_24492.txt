@@ -1,0 +1,19 @@
+The image shows a bar chart with the following data points:
+
+- 2012: 10.86 million
+- 2013: 10.97 million
+- 2014: 11.08 million
+- 2015: 11.27 million
+- 2016: 11.35 million
+- 2017: 11.43 million
+- 2018: 11.55 million
+- 2019: 11.76 million
+- 2020: 11.86 million
+- 2021*: 12.02 million
+
+At the bottom of the image, there are two clickable elements:
+- Additional Information
+- Show source
+
+In the bottom right corner, there is a copyright notice:
+- © Statista 2021

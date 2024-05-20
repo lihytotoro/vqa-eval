@@ -1,0 +1,116 @@
+Title: Division I
+
+Table:
+- Column 1: Year
+- Column 2: Elon University
+- Column 3: Score
+- Column 4: Runner-Up
+- Column 5: North Carolina State
+- Column 6: Location
+- Column 7: Semi-Finalist #1
+- Column 8: Semi-Finalist #2
+- Column 9: NA
+- Column 10: NC
+- Column 11: Charlotte, North Carolina State
+- Column 12: NC
+- Column 13: East Carolina
+- Column 14: NC
+- Column 15: East Carolina
+- Column 16: Florida Atlantic
+- Column 17: South Carolina
+- Column 18: South Carolina
+- Column 19: Florida Atlantic
+- Column 20: South Carolina
+- Column 21: Florida Atlantic
+- Column 22: NA
+- Column 23: NC
+- Column 24: Charlotte, North Carolina State
+- Column 25: NC
+- Column 26: East Carolina
+- Column 27: NC
+- Column 28: East Carolina
+- Column 29: Florida Atlantic
+- Column 30: South Carolina
+- Column 31: South Carolina
+- Column 32: Florida Atlantic
+- Column 33: South Carolina
+- Column 34: Florida Atlantic
+- Column 35: NA
+- Column 36: NC
+- Column 37: Charlotte, North Carolina State
+- Column 38: NC
+- Column 39: East Carolina
+- Column 40: NC
+- Column 41: East Carolina
+- Column 42: Florida Atlantic
+- Column 43: South Carolina
+- Column 44: South Carolina
+- Column 45: Florida Atlantic
+- Column 46: South Carolina
+- Column 47: Florida Atlantic
+- Column 48: NA
+- Column 49: NC
+- Column 50: Charlotte, North Carolina State
+- Column 51: NC
+- Column 52: East Carolina
+- Column 53: NC
+- Column 54: East Carolina
+- Column 55: Florida Atlantic
+- Column 56: South Carolina
+- Column 57: South Carolina
+- Column 58: Florida Atlantic
+- Column 59: South Carolina
+- Column 60: Florida Atlantic
+- Column 61: NA
+- Column 62: NC
+- Column 63: Charlotte, North Carolina State
+- Column 64: NC
+- Column 65: East Carolina
+- Column 66: NC
+- Column 67: East Carolina
+- Column 68: Florida Atlantic
+- Column 69: South Carolina
+- Column 70: South Carolina
+- Column 71: Florida Atlantic
+- Column 72: South Carolina
+- Column 73: Florida Atlantic
+- Column 74: NA
+- Column 75: NC
+- Column 76: Charlotte, North Carolina State
+- Column 77: NC
+- Column 78: East Carolina
+- Column 79: NC
+- Column 80: East Carolina
+- Column 81: Florida Atlantic
+- Column 82: South Carolina
+- Column 83: South Carolina
+- Column 84: Florida Atlantic
+- Column 85: South Carolina
+- Column 86: Florida Atlantic
+- Column 87: NA
+- Column 88: NC
+- Column 89: Charlotte, North Carolina State
+- Column 90: NC
+- Column 91: East Carolina
+- Column 92: NC
+- Column 93: East Carolina
+- Column 94: Florida Atlantic
+- Column 95: South Carolina
+- Column 96: South Carolina
+- Column 97: Florida Atlantic
+- Column 98: South Carolina
+- Column 99: Florida Atlantic
+- Column 100: NA
+- Column 101: NC
+- Column 102: Charlotte, North Carolina State
+- Column 103: NC
+- Column 104: East Carolina
+- Column 105: NC
+- Column 106: East Carolina
+- Column 107: Florida Atlantic
+- Column 108: South Carolina
+- Column 109: South Carolina
+- Column 110: Florida Atlantic
+- Column 111: South Carolina
+- Column 112: Florida Atlantic
+- Column

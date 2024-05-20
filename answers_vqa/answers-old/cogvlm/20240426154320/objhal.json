@@ -1,0 +1,866 @@
+[
+    {
+        "question_id": null,
+        "question": "What color is the fire hydrant cap in the picture?",
+        "answer": "The fire hydrant cap in the picture is yellow.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/df62a56fdc1bb12b.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Who is sitting on the bench?",
+        "answer": "no one</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/5b18b22f53ccc661.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which wooden stool has a vase with red flower on it?",
+        "answer": "left</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/71d35c01e3b47a47.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How many traffic lights are there in the image?",
+        "answer": "There are three traffic lights in the image.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/2c0e54cb2dcad01d.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What colors are the traffic signs at the top, in the middle, and at the bottom?",
+        "answer": "The traffic signs are white, blue, and yellow respectively.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/03d45f0207d68aa2.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How would you describe the weather in the image?",
+        "answer": "clear</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/2e1d92ec24b8f5f9.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Describe the image in detail.",
+        "answer": "The image showcases a city street on a rainy day. The wet cobblestone pavement reflects the surrounding buildings and trees. On the left, there's a row of trees with green leaves, and a few pedestrians can be seen walking in the distance. On the right, there are classic stone buildings with large windows. Street lamps line the sidewalk, and a few cars are visible in the distance. There are also signs and a streetlight in the foreground.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/294aff231c7c290a.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How much is it per hour to park at the parking meter?",
+        "answer": "$4.00</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/2462520ae7b86d0e.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What color are the two cars from right to left in the image?",
+        "answer": "The two cars from right to left in the image are blue and black.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/01e8509529aac2b8.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is the gender of the person riding the motorcycle in the image?",
+        "answer": "doesnotapply</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/1cdd5f88863aec33.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "In the image, which truck (left or right) has its door open?",
+        "answer": "The left truck has its door open.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/50ba2afa85a784cb.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How many bicycles are there in the image?",
+        "answer": "3</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/aec20da322ac2ace.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How is the yellow boat positioned in relation to the white yacht in the image?",
+        "answer": "The yellow boat is positioned in front of the white yacht.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/590b56abc568010b.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is the weather like in the image?",
+        "answer": "cloudy</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/9baac3ede8933b48.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Describe the image in detail.",
+        "answer": "The image showcases an urban street scene. On the left, there's a storefront with a sign reading 'Rising Dragon Tattoos' and another sign indicating 'Open 24 Hours'. A man, possibly a delivery worker, is seen on a bicycle, wearing a helmet and pointing towards something. Next to him is a yellow school bus with the label 'School Bus' and 'Aero Carriers'. The bus has a 'STOP' sign on its side. The background features a building with a window and some street signs.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/a822376f2d79b90f.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which company owns the airplane displayed in the back of the image?",
+        "answer": "The airplane displayed in the back of the image is owned by Virgin Atlantic.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/a7157a32c782e319.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What are the colors of the shirts worn by the three men from left to right in the image?",
+        "answer": "The colors of the shirts worn by the three men from left to right are green, blue, and red.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/d6485beb5b69ea53.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which color are the glasses that the man in the image is wearing?",
+        "answer": "The man in the image is not wearing glasses.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/350f86d5d3c2d9c3.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Who in the picture is wearing trousers?",
+        "answer": "the woman</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/1e4224b56a0c9ef0.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How many people are there in the image?",
+        "answer": "4</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/c8028c1f637cee75.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Where is the girl positioned among the three people in the image?",
+        "answer": "the girl is positioned on the right side of the three people in the image</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/4ad9295d442500a7.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Is the man in the picture indoors or outdoors?",
+        "answer": "outdoors</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/4701e0acb21f2e68.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Describe the image in detail.",
+        "answer": "The image showcases a street scene with a storefront named 'Hawkins Bazaar' prominently displayed. The storefront has a green sign with the words 'English Lifestyle Products' and a smaller sign above it that reads 'Hawkins Bazaar'. The store appears to be selling a variety of items, with a display window showcasing toys and other products. Outside the store, there are autumn leaves scattered on the ground. To the left of the image, there's another store with a red sign, and to the right, there's a sign advertising a 'Mid Winter Sale' with a discount of up to 50%. The scene is bustling with a few pedestrians walking by, and the overall ambiance suggests a typical shopping day in a town or city during the fall season.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/856c000622d66bd9.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What number is the fastest girl wearing in the picture?",
+        "answer": "1097</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/c3c43c3a0b95b8b7.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What are the colors of the dogs from right to left?",
+        "answer": "answering does not require reading text in the image</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/2c6cfffcec6c6463.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is a vicuna standing in the sand looking at?",
+        "answer": "doesnotapply</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/0c9eb1868c2d1228.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which cat (left, right or middle) in the image opens its mouth?",
+        "answer": "middle</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/3f244d0cd047e3b7.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How many zebras are there in the image?",
+        "answer": "5</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/7283e9f8f21661ea.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which sheep is in front of the other sheep?",
+        "answer": "answering does not require reading text in the image</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/ebbc5c3c4b35bedd.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How was the weather when this picture was captured?",
+        "answer": "clear</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/952641c85b9f09fe.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Describe the image in detail.",
+        "answer": "The image showcases a zoo setting with a group of giraffes and zebras. The giraffes are standing near a large rock formation, and there are three zebras in the foreground. The zebras have distinct black and white stripes. The environment appears to be sunny with clear skies, and there are trees and shrubs in the background.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/7b6eed2a50ffd046.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Out of the four animals, how many giraffes are there in the image?",
+        "answer": "0</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/996983a34279806d.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Is the kiwi in the front fresh or dried?",
+        "answer": "dried</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/f1af0ed7187eab00.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Is the jam on the bread made of strawberry?",
+        "answer": "yes</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/4ca36920f24e0fbd.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Compare the tomatoes in the photo.",
+        "answer": "answering does not require reading text in the image</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/51389a33f0919915.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How many oysters can you see in the photo?",
+        "answer": "5</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/071af503f95aee59.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Is the bowl with broccoli on top of the bowl with meatballs?",
+        "answer": "yes</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/2bbc6adf1cff3456.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Is this photo taken in a restaurant, a kitchen, or anywhere else?",
+        "answer": "restaurant</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/af8fe8f491807b09.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Describe the activities in this image.",
+        "answer": "The image depicts a cooking session where two young girls and a chef are preparing a dish. The girls are wearing aprons with the 'Britannia Hotel' logo and are engaged in various tasks, such as peeling vegetables. The chef is observing their actions and seems to be guiding them.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/3e018215175254e6.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "From this photo, how much does each jerk chicken dumpling cost?",
+        "answer": "5.00</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/0151d884c5bf5c8c.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What are the colors of the parachutes in the sky?",
+        "answer": "answering does not require reading text in the image</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/375e84d28f0d3cbc.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Describe the person playing tennis in this photo.",
+        "answer": "there is no person playing tennis in this photo.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/bb59841e50eff62e.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Compare the two surfboards in the photo.",
+        "answer": "The surfboard on the top is a light wooden board with a black logo on the top, while the one on the bottom is a red board with a white and black geometric design and a black logo on the bottom.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/e304afc041e5c159.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How many horses are there in the photo?",
+        "answer": "answering does not require reading text in the image</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/a66b0731cef5ba7b.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is the color of the ball on the left?",
+        "answer": "red</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/ac08533aa9ebadbb.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Is this photo taken indoors or outdoors?",
+        "answer": "indoors</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/93817e876146e69b.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Describe the activity in this photo.",
+        "answer": "answering does not require reading text in the image</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/c548e556693c452c.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which tournament is this tennis competition?",
+        "answer": "Indian Wells</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/7bc342d079ac1474.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What color is the microwave?",
+        "answer": "silver</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/9133b173feb0a59a.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How many people are eating in this kitchen?",
+        "answer": "0</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/29e78aee706861b1.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Compare the utensils in the picture.",
+        "answer": "The utensils in the picture are designed to be similar to LEGO bricks. They have a flat top and a hollow bottom, with a colorful handle resembling the studs of a LEGO brick. The design is both functional and playful, making it appealing to children and collectors of LEGO-themed items.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/1b7fae3b7e77482a.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How many forks can you see?",
+        "answer": "answering does not require reading text in the image</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/d81d745b84568e6a.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What are the objects from right to left?",
+        "answer": "spoon, lid, mug</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/0fb3b09b91685b46.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "At what time is this photo taken?",
+        "answer": "12:00</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/df3e58f3075a5e9a.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Describe this photo in detail.",
+        "answer": "This photo showcases an indoor setting, likely a dining or kitchen area. The focal point is a wooden dining table with a polished finish. On the table, there are two glasses with water, each placed on a coaster. Surrounding the table are three chairs: one black, one teal, and one wooden. The room has wooden flooring, and there's a window on the right side, allowing natural light to illuminate the space. The walls are painted in a light color, and there's a radiator visible near the window.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/cda31a3b42057d35.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "In the picture, which buttons should I use to control the stove above?",
+        "answer": "To control the stove above, you should use the buttons labeled from 1 to 8.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/4e5670ec1484e9c4.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What color is the umbrella?",
+        "answer": "The umbrella is multi-colored with shades of yellow, orange, green, and purple.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/64f51a50c1aff6f7.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Describe the hands wearing the gloves.",
+        "answer": "The hands wearing the gloves are open and spread out, showing the fingers and palms.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/159220398554e6b0.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Compare the two different views of the backpack.",
+        "answer": "The backpack on the left is opened to show the contents, while the backpack on the right is closed.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/886b0014dcc373a3.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How many black hats are there in the image?",
+        "answer": "There are five black hats in the image.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/df4d61f1d6a84c36.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Describe how the two watches are placed.",
+        "answer": "The watch on the left is upright with its strap facing upwards, while the watch on the right is tilted at an angle with its strap facing downwards.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/d0f1f4d19520388a.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Is this photo taken indoors or outdoors?",
+        "answer": "indoors</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/e376560f2ca3fbe6.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Describe the details in this photo.",
+        "answer": "The photo showcases two hands, one male and one female, intertwined. The female hand is adorned with a ring, possibly an engagement or wedding ring, while the male hand wears a simple band. The background is a white fabric, possibly a wedding gown, with intricate lace detailing.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/e070667656d27f6d.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What can you see in the reflection from the sunglasses?",
+        "answer": "people</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/75ed7924c47f984d.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is the color of the laptop?",
+        "answer": "answering does not require reading text in the image</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/d26d6ba07ad072f6.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is playing on the monitor?",
+        "answer": "doesnotapply</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/45069d7de7100c0d.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which electronic device is larger?",
+        "answer": "iPod</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/10dda8b9e1534f15.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How many mobile phones are there in the image?",
+        "answer": "1</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/b59436505aa102e8.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Is the mouse connected to a computer?",
+        "answer": "yes</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/0f817e05eecad078.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Where was the photo taken?",
+        "answer": "in the mountains</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/70a3d245181d6d88.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Describe the image in detail.",
+        "answer": "The image showcases an LG television set placed on a wooden table. On the television screen, there's a man with glasses and a mustache, wearing a suit and tie. He appears to be in an outdoor setting with trees and a stone structure in the background. The screen also displays some text and graphics, including a date '2001' and a measurement '5.05 m'. On the table, there's a notebook with a pen and some papers.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/01a4b22028ed8133.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Is this a Macbook or Windows laptop?",
+        "answer": "Macbook</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/ea32242f60eefff4.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What are the colors of the pillows from left to right?",
+        "answer": "The colors of the pillows from left to right are blue, white, and yellow.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/efab1896bde1ae53.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is the color of the chair in the image?",
+        "answer": "The color of the chair in the image is yellow.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/cb1abb0fc94b341a.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which pillow is closer to the camera?",
+        "answer": "The left pillow is closer to the camera.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/6c98114a44982486.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How many chairs are there in the image?",
+        "answer": "There are three chairs in the image.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/61ef9eef568ab880.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which pillow is in front of the other pillows?",
+        "answer": "answering does not require reading text in the image</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/8263f3934588cd54.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What was the weather like when this photo was taken?",
+        "answer": "sunny</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/78767a54758dcd79.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Describe the image in detail.",
+        "answer": "The image showcases a room with four bunk beds. Each bed has a blue mattress with a floral pattern, predominantly featuring yellow flowers. The beds are white with wooden frames. There are two ladders, one for each set of bunks. Each bed is adorned with a yellow pillow. The room has a white wall and a brown rug on the floor.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/fdd6663c53007255.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Is the toilet paper used?",
+        "answer": "no</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/b6b1f6e7715d4f02.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What color are these books?",
+        "answer": "answering does not require reading text in the image</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/c0f90a125ff5ccf3.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is in the vase?",
+        "answer": "answering does not require reading text in the image</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/9b133468e850a8f8.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which vase looks larger?",
+        "answer": "left</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/8535beba7fa530b1.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How many teddy bears are on the stairs?",
+        "answer": "7</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/9d56e36ffb80ecde.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which color flowers are on top, and which color flowers are on the bottom?",
+        "answer": "answering does not require reading text in the image</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/2664ce031523e2f9.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What was the weather like when this photo was taken?",
+        "answer": "sunny</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/58b8894b0151952e.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Describe the image in detail.",
+        "answer": "The image showcases a newborn baby, peacefully sleeping in a white bassinet. Above the bassinet, there are hanging plush toys, including a bear, a rabbit, and another animal that's not entirely visible. The bassinet has a white lining and a mesh vent on one side. The baby is wearing a white onesie and is positioned on his back with his arms stretched out.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/5040c1ddd04d0415.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is the name of the book?",
+        "answer": "proverbial philosophy</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/36a55efe7e823b7f.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is the color of the pot?",
+        "answer": "answering does not require reading text in the image</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/0b566984f99efd97.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is being washed in the sink?",
+        "answer": "mouth</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/0af4ba8fd2a7e628.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which washing machine is taller?",
+        "answer": "The one on the left</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/daded832e3ae26b5.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "How many chickens are cooked?",
+        "answer": "1</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/2eb806ea6284ca7a.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is placed on the tissue paper roll?",
+        "answer": "screwdriver</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/1b6620d950202924.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What time was the photo taken?",
+        "answer": "12:30</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/3692c7b2c4697ed9.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Describe the image in detail.",
+        "answer": "The image showcases a glass display case containing several white, doughy buns or pastries. The buns are neatly arranged on a metal tray with perforated holes. There are also two metal tongs placed next to the buns. The display case appears to be made of stainless steel and has condensation on its inner surface, suggesting that it might be cold inside or that the buns are freshly baked.</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/54568036521c53bd.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is shown in the mirror?",
+        "answer": "dryer</s>",
+        "gt_answers": "",
+        "image_path": "/data/public/multimodal/multimodal_data/dpo/eval/MMHal/images/cabbf79c0a4e40e6.jpg",
+        "model_name": "cogvlm",
+        "question_type": null
+    }
+]

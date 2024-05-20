@@ -1,0 +1,142 @@
+Header:
+- R J REYNOLDS TOBACCO JAXX, FL.
+- 08/19/97 23:27
+
+Title:
+- R J Reynolds Tobacco Company Promotion Information
+
+Subtitle:
+- Direct Account:
+  - SIS#: 39600
+  - Promo: Doral B2G1F (#700272)
+
+Subtitle:
+- Ship-To-Retail Date:
+  - Wk: 5/8/97
+
+Subtitle:
+- Product Order Item:
+  - P.O.#: 13508.53
+
+Subtitle:
+- (Product and Shippers unless noted)
+
+Subtitle:
+- Product Order Item (if applicable):
+  - P.O.#: 13508.53
+
+Section Title:
+- UPC Information
+
+Table:
+- Column Headers:
+  - # Orders
+  - Price Per Ctn.
+  - Tax Per Ctn.
+  - Cts Needed
+  - Total for Brand
+  - Total for Style
+  - Total for SKU
+
+- Row 1:
+  - 2456
+  - 64.00
+  - 2.00
+  - 64.00
+  - $18.31
+  - $18.31
+
+- Row 2:
+  - 2456
+  - 64.00
+  - 2.00
+  - 64.00
+  - $18.31
+  - $18.31
+
+- Row 3:
+  - 2456
+  - 64.00
+  - 2.00
+  - 64.00
+  - $18.31
+  - $18.31
+
+- Row 4:
+  - 2456
+  - 64.00
+  - 2.00
+  - 64.00
+  - $18.31
+  - $18.31
+
+- Row 5:
+  - 2456
+  - 64.00
+  - 2.00
+  - 64.00
+  - $18.31
+  - $18.31
+
+- Row 6:
+  - 2456
+  - 64.00
+  - 2.00
+  - 64.00
+  - $18.31
+  - $18.31
+
+- Row 7:
+  - 2456
+  - 64.00
+  - 2.00
+  - 64.00
+  - $18.31
+  - $18.31
+
+- Row 8:
+  - 2456
+  - 64.00
+  - 2.00
+  - 64.00
+  - $18.31
+  - $18.31
+
+- Row 9:
+  - 2456
+  - 64.00
+  - 2.00
+  - 64.00
+  - $18.31
+  - $18.31
+
+- Row 10:
+  - 2456
+  - 64.00
+  - 2.00
+  - 64.00
+  - $18.31
+  - $18.31
+
+- Row 11:
+  - 2456
+  - 64.00
+  - 2.00
+  - 64.00
+  - $18.31
+  - $18.31
+
+- Row 12:
+  - 2456
+  - 64.00
+  - 2.00
+  - 64.00
+  - $18.31
+  - $18.31
+
+- Row 13:
+  - 2456
+  - 64.00
+  - 2.00
+  - 64.00
+  - $18.31

@@ -1,0 +1,13 @@
+Title: MATERIALS AND METHODS
+
+Body Text:
+Thirty-one participants (age range: 19–31 years old) were recruited by completing an on-line version of the Facebook Intensity Scale. The Facebook Intensity Scale is a survey which asks about how much time a user spends on Facebook, how many friends has a user, and how much a user identifies with the website. Participants were selected to have a broad range of Facebook Intensity scores.
+
+The experiment took place over two days. On Day 1, the Facebook users were given a brief on-camera interview consisting of questions like "What do you like to do in your free time?" Participants then left the lab to wait for Day 2 Important, before the interview, they were told that Day 1 and Day 2, the recorded video interview would be individually observed by 10 reviewers. After seeing the video, the survey would select 10-15 items from a list of 200 objectives that they thought accurately described the participant. When the participants returned for Day 2, they were placed in a Facebook Intensity scanner while they performed two different tasks (see Figure 1). In one task, the "description task," participants discovered what they believed to be different thoughts of others. In another task, they thought of what the reviewers thought of another person who also participated in the part of the experiment. In reality, the participants received a pre-determined range of positive words for both themselves and the other participant. In the other task, the "card task," participants chose one of three cards and then found out if they won money.
+
+Footer:
+Card Task
+3-7.5 s
+1 s
+3 s
+Outcome Period

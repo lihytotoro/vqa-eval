@@ -1,0 +1,6 @@
+| Player | g | ip | era | so |
+| --- | --- | --- | --- | --- |
+| Jake Mooty | 39 | 11 | 4.32 | 3.92 |
+| Joe Casarella | 38 | 11 | 4.32 | 3.92 |
+| Cassandra | 37 | 11 | 4.32 | 3.92 |
+| Jumbo Brown | 36 | 11 | 4.32 | 3.92 |

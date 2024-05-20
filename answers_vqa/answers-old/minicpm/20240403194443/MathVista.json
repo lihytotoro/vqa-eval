@@ -1,0 +1,83 @@
+[
+    {
+        "question_id": null,
+        "question": "What is the sum of all the values in the ruling group? Please give your answer alongwith detailed solution process.",
+        "answer": "12, To find the sum of all the values in the \"ruling\" group, we add the values of \"tin\" and \"ace\" together. The values for \"tin\" are 1 and 9, and the values for \"ace\" are 7 and 3. Adding these together gives us 1 + 9 + 7 + 3 = 19.",
+        "gt_answers": "12",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/100.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Among the shapes of leaf shown in this picture, which shape is most erect? Please give your answer alongwith detailed solution process.",
+        "answer": "The \"Elliptic\" shape is most erect among the shapes shown in this picture.",
+        "gt_answers": "Linear",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/101.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which type of color has the lowest value in the figure? Please give your answer alongwith detailed solution process.",
+        "answer": "The type with the lowest value in the figure is \"Hot Pink\". This can be determined by examining the y-axis of the graph, which represents the value of the color on the x-axis. The \"Hot Pink\" line is the lowest among all the lines, indicating that it has the lowest value.",
+        "gt_answers": "no",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/139.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "In the domain shown in this figure, when does the function reach its local maximum? Please give your answer alongwith detailed solution process.",
+        "answer": "The local maximum of the function \\( f(u_1, u_2) \\) occurs at the point where the gradient of the function is zero. The gradient is a vector that points in the direction of the steepest ascent of the function. In this figure, the gradient is represented by the lines connecting the vertices of the triangular mesh. The points where these lines intersect form the local maxima of the function.",
+        "gt_answers": "(u1, u2) = (0, 0)",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/151.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which type of species in the picture will be most directly affected by an increase in owls? Please give your answer alongwith detailed solution process.",
+        "answer": "The type of species that would be most directly affected by an increase in owls is the grasshopper. This is because grasshoppers are herbivores, feeding on grass and other plant material. Owls, being predators, would likely prey on grasshoppers, which could lead to a decline in grasshopper populations.",
+        "gt_answers": "mice",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/153.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which type has the largest quantity according to the figure? Please give your answer alongwith detailed solution process.",
+        "answer": "Forest Green, The figure shows that Forest Green has the largest quantity with 80.0 units.",
+        "gt_answers": "no",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/172.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "According to the table, which methods achieve an A-847 score higher than 20.0? Please give your answer alongwith detailed solution process.",
+        "answer": "The methods that achieve an A-847 score higher than 20.0 are OpenSeg and FC-CLIP (ours).",
+        "gt_answers": "3",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/188.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "According to the figure, on which dataset does the lowest reported accuracy appear? Please give your answer alongwith detailed solution process.",
+        "answer": "The lowest reported accuracy appears on the dataset labeled \"deputy\".",
+        "gt_answers": "1",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/189.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Approximately what are the markings on the ruler where the head and tail of the nail in the image are located? Please give your answer alongwith detailed solution process.",
+        "answer": "The markings on the ruler where the head and tail of the nail are located are approximately 1 inch and 6 inches, respectively.",
+        "gt_answers": "2",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/190.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    }
+]

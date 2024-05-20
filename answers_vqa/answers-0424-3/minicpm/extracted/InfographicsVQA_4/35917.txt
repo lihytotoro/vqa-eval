@@ -1,0 +1,29 @@
+Title: South Africa's population & age structure (millions) 1960 to 2016
+
+Chart Description:
+- The chart is a stacked bar chart with age groups on the y-axis and years on the x-axis.
+- Each bar represents the number of people in a given age group for a specific year.
+- The age groups are labeled as "Ages 0-14," "Ages 15-29," "Ages 30-44," "Ages 45-59," "Ages 60-74," and "Ages 75+."
+- The years are labeled as "1960," "1970," "1980," "1992," "2000," "2004," "2008," "2012," and "2016."
+
+Data Points:
+- 1960: 55
+- 1970: 45
+- 1980: 35
+- 1992: 25
+- 2000: 20
+- 2004: 15
+- 2008: 10
+- 2012: 5
+- 2016: 10
+
+Legend:
+- Dark blue circle: Ages 0-14
+- Light blue circle: Ages 15-29
+- Dark blue circle: Ages 30-44
+- Light blue circle: Ages 45-59
+- Dark blue circle: Ages 60-74
+- Light blue circle: Ages 75+
+
+Footer:
+- "STATISTICS SA, WORLD BANK, UNITED NATIONS POPULATION PROSPECTS"

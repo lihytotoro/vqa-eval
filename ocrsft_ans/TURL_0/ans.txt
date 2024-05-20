@@ -1,0 +1,24 @@
+Title: Inmate
+
+Subtitle: year imprisoned, sentence, conviction
+
+Body Text:
+- John A. Brown, Jr., 1986
+  - Death
+- George Crawford, 1997
+  - Murder
+- Wilbert Rideau, 1961
+  - Murder
+- Vincent Simmons, 1977
+  - 100 years
+- Eugene 'Bishop' Tannehill, 1959
+  - Life
+- 'Logan's Therion'
+  - Murder
+- 'Bones' Logan, 1972
+  - Murder
+- Ashanti Witherspoon, 1972
+  - 75 years
+- 'Murder of wife'
+  - Murder
+- 'Armed robbery'

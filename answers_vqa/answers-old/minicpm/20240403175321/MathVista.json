@@ -1,0 +1,83 @@
+[
+    {
+        "question_id": null,
+        "question": "What is the sum of all the values in the ruling group?",
+        "answer": "The sum of all values in the \"ruling\" group is 11.",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/100.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which shape is most erect?",
+        "answer": "The Elliptic shape is most erect among the options provided.",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/101.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which type of color has the lowest value in the figure?",
+        "answer": "The \"Hot Pink\" line has the lowest value in the figure.",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/139.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "When does the function reach its local maximum?",
+        "answer": "The local maximum of the function \\( f(u_1, u_2) \\) occurs at the point where the gradient of the function is zero. The gradient is a vector that points in the direction of the steepest ascent of the function. At a local maximum, the gradient is zero, indicating that the function does not increase further in that direction.",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/151.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which type of species would be directly impacted by an increase in owls?",
+        "answer": "The grasshopper would be directly impacted by an increase in owls. This is because owls are known to prey on grasshoppers as part of their diet.",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/153.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which type has the largest quantity according to the figure?",
+        "answer": "Forest Green",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/172.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which methods in the table achieve an A-847 score higher than 20.0?",
+        "answer": "The methods that achieve an A-847 score higher than 20.0 are OpenSeg and FC-CLIP (ours).",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/188.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "In which dataset does the lowest accuracy reported in the whole chart appear?",
+        "answer": "The lowest accuracy reported in the whole chart appears in the \"deputy\" dataset.",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/189.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is the approximate scale on the ruler where the nails in the picture start and end?",
+        "answer": "The nails start at the 1-inch mark and end at the 6-inch mark on the ruler.",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/190.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    }
+]

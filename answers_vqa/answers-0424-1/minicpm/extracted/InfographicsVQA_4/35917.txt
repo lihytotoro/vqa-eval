@@ -1,0 +1,47 @@
+Title: South Africa's population & age structure (millions) 1960 to 2016
+
+Subtitle: 1960 55
+Subtitle: 1964 50
+Subtitle: 1968 45
+Subtitle: 1972 40
+Subtitle: 1976 35
+Subtitle: 1980 30
+Subtitle: 1984 25
+Subtitle: 1988 20
+Subtitle: 1992 15
+Subtitle: 1996 10
+Subtitle: 2000 5
+Subtitle: 2004 10
+Subtitle: 2008 15
+Subtitle: 2012 20
+Subtitle: 2016 15
+
+Pie Chart:
+- Ages 0-14: 41%
+- Ages 15-29: 25%
+- Ages 30-44: 22%
+- Ages 45-59: 17%
+- Ages 60+: 11%
+
+Bar Graph:
+- Ages 0-14: 41%
+- Ages 15-29: 25%
+- Ages 30-44: 22%
+- Ages 45-59: 17%
+- Ages 60+: 11%
+
+Legend:
+- Blue Circle: Ages 0-14
+- Dark Blue Circle: Ages 15-29
+- Light Blue Circle: Ages 30-44
+- Grey Circle: Ages 45-59
+- Dark Grey Circle: Ages 60+
+
+X-axis: Years from 1960 to 2016
+Y-axis: Percentages ranging from 0% to 100%
+
+Source: MARY ALEXANDER, DATA: STATISTICS SOUTH AFRICA, WORLD BANK, UNITED NATIONS POPULATION PROSPECTS
+
+Footer: South Africa-Gateway.com
+
+Graphic: GRAPHIC: MARY ALEXANDER, DATA: STATISTICS SOUTH AFRICA, WORLD BANK, UNITED NATIONS POPULATION PROSPECTS

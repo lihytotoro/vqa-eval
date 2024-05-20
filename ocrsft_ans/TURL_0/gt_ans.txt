@@ -1,0 +1,11 @@
+Table:
+
+| inmate            | year imprisoned | sentence | conviction                      |
+|-------------------|-----------------|----------|---------------------------------|
+| John A. Brown, Jr. | 1986            | Death    | First-degree murder and robbery |
+| George Crawford   | 1997            |          | First-degree murder             |
+| Wilbert Rideau    | 1961            |          | Murder and kidnapping           |
+| Vincent Simmons   | 1977            | 100 years| Double rape                     |
+| Eugene 'Bishop' Tannehill | 1959    | Life     | Murder                          |
+| Logan 'Bones' Theriot | 1960       |          | Murder of wife                  |
+| Ashanti Witherspoon| 1972            | 75 years | Armed robbery                   |

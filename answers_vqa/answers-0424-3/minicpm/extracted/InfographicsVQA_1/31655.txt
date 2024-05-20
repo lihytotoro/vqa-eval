@@ -1,0 +1,52 @@
+Title: 10 TRENDING NEIGHBORHOODS IN DUBAI
+
+Body Text:
+- Jumeirah Park and Jumeirah Islands
+  - Moving in
+  - Moving out
+- Jumeirah Lake Towers
+  - Average annual rent in AED for a 1BR apartment
+  - Average annual rent in AED for a 2BR apartment
+- Jumeirah Village
+  - Moving in
+  - Moving out
+- Jumeirah Beach Residence
+  - Average annual rent in AED for a 1BR apartment
+  - Average annual rent in AED for a 2BR apartment
+- Dubai Marina
+  - Moving in
+  - Moving out
+- Dubai Creek
+  - Average annual rent in AED for a 1BR apartment
+  - Average annual rent in AED for a 2BR apartment
+- Downtown Dubai
+  - Moving in
+  - Moving out
+- DIFC Area
+  - Average annual rent in AED for a 1BR apartment
+  - Average annual rent in AED for a 2BR apartment
+- Burj Al Arab
+  - Moving in
+  - Moving out
+- Burj Khalifa
+  - Average annual rent in AED for a 1BR apartment
+  - Average annual rent in AED for a 2BR apartment
+- Dubai Mall
+  - Average annual rent in AED for a 1BR apartment
+  - Average annual rent in AED for a 2BR apartment
+- Emirates Towers
+  - Moving in
+  - Moving out
+- Business Bay
+  - Average annual rent in AED for a 1BR apartment
+  - Average annual rent in AED for a 2BR apartment
+- Mirdif, Muhairiah, Al Warqa, and Al Mizar Area
+  - Average annual rent in AED for a 1BR apartment
+  - Average annual rent in AED for a 2BR apartment
+- Silicon Oasis and Academic City
+  - Average annual rent in AED for a 1BR apartment
+  - Average annual rent in AED for a 2BR apartment
+
+Footer:
+- ServiceMarket © 2015 Designed by Pink Entropy
+- propertyfinder.ae

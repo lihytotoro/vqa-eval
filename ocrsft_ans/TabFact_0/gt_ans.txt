@@ -1,0 +1,15 @@
+Title: Most dismissals in Test career (wicketkeeper)
+
+Table:
+- Rank: 1, Dismissals: 148, Player: Rod Marsh, Caught: 141, Stumped: 7, Matches: 42, Innings: 82
+- Rank: 2, Dismissals: 135, Player: Ian Healy, Caught: 123, Stumped: 12, Matches: 33, Innings: 65
+- Rank: 3, Dismissals: 96, Player: Adam Gilchrist, Caught: 89, Stumped: 7, Matches: 20, Innings: 40
+- Rank: 4, Dismissals: 90, Player: Bert Oldfield, Caught: 59, Stumped: 31, Matches: 38, Innings: 69
+- Rank: 5, Dismissals: 76, Player: Wally Grout, Caught: 69, Stumped: 7, Matches: 22, Innings: 41
+- Rank: 6, Dismissals: 59, Player: Jack Blackham, Caught: 35, Stumped: 24, Matches: 25, Innings: 57
+- Rank: 7, Dismissals: 55, Player: Jim Kelly, Caught: 39, Stumped: 16, Matches: 33, Innings: 61
+- Rank: 8, Dismissals: 52, Player: Sammy Carter, Caught: 35, Stumped: 17, Matches: 21, Innings: 41
+- Rank: 9, Dismissals: 42, Player: Don Tallon, Caught: 38, Stumped: 4, Matches: 15, Innings: 30
+- Rank: 10, Dismissals: 37, Player: Gil Langley, Caught: 35, Stumped: 2, Matches: 9, Innings: 17
+
+Source: Cricinfo. Last updated: 22 June 2009.

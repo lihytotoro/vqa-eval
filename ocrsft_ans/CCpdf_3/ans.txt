@@ -1,0 +1,105 @@
+Title:
+Integrity Systems Company
+A subsidiary of Meat & Livestock Australia
+
+Body Text:
+NLS Database
+Interface Specification
+Release 2007
+Specification Part 3 – Sample Files
+
+Reviewed by: M. Fugley
+Approved by: P. Quigley
+
+Device Status In PIC Upload - Result
+
+Subtitle:
+SOAP-ENV: Envelope
+SOAP-NS: SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/"
+xmlns:ns="http://www.xmlsoap.org/soap/envelope/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+xmlns:nsi="http://www.xmlsoap.org/soap/envelope/"
+xmlns:nsi-soap="http://www.xmlsoap.org/soap/envelope/"
+
+SOAP-ENV:Body
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id:79513
+Transaction-id

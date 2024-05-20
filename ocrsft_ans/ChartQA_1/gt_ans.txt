@@ -1,0 +1,56 @@
+Title: <none>
+
+Body Text:
+- Clothes (including sports clothing), shoes and accessories
+  - Men: 49%
+  - Women: 62%
+- Deliveries from restaurants, fast-food chains or catering services
+  - Men: 32%
+  - Women: 32%
+- Printed books, magazines or newspapers
+  - Men: 30%
+  - Women: 28%
+- Furniture, home accessories or gardening products
+  - Men: 28%
+  - Women: 29%
+- Computers, tablets, mobile phones or accessories
+  - Men: 27%
+  - Women: 21%
+- Children's toys or childcare items
+  - Men: 24%
+  - Women: 19%
+- Cosmetics, beauty or wellness products
+  - Men: 29%
+  - Women: 15%
+- Cleaning products or personal hygiene products
+  - Men: 20%
+  - Women: 16%
+- Consumer electronics, for example TVs, stereos, cameras or household appliances
+  - Men: 23%
+  - Women: 13%
+- Sports goods (excluding sports clothing)
+  - Men: 22%
+  - Women: 12%
+- Food or beverages from stores, or from meal-kit providers
+  - Men: 14%
+  - Women: 13%
+- Medicine or dietary supplements such as vitamins
+  - Men: 13%
+  - Women: 13%
+- Physical copies of films or series
+  - Men: 15%
+  - Women: 11%
+- Physical copies of music
+  - Men: 15%
+  - Women: 10%
+
+Legend:
+- Blue dot: Men
+- Blue bar: Share of respondents (for men)
+- Dark blue bar: Share of respondents (for women)
+
+Footer:
+- Collapse statistic
+- Additional Information
+- © Statista 2021
+- Show source

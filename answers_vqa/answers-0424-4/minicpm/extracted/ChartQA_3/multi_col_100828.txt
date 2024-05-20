@@ -1,0 +1,17 @@
+The image shows a line chart with two lines representing different regions, labeled as "Canada" and "Northwest Territories." The vertical axis is labeled "Life expectancy in years" and ranges from 75 to 83. The horizontal axis lists years from 2006 to 2019.
+
+For Canada:
+- The line for Canada starts at approximately 77 years in 2006 and ends at approximately 83 years in 2019.
+
+For Northwest Territories:
+- The line for Northwest Territories starts at approximately 77 years in 2006 and ends at approximately 83 years in 2019.
+
+Below the chart, there are two legends:
+- Blue dot with the label "Canada"
+- Black dot with the label "Northwest Territories"
+
+At the bottom of the image, there are two clickable options:
+- "Additional Information"
+- "Show source"
+
+In the bottom right corner, there is a copyright notice that reads "© Statista 2021".

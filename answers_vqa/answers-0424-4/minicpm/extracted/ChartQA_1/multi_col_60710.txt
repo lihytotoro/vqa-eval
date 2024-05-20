@@ -1,0 +1,21 @@
+The image displays a bar chart with the following elements:
+
+- Y-axis Title: Sales in billion euros
+- X-axis Categories: United Kingdom, Germany, France, Italy, Spain, Netherlands, Belgium
+- Data Points:
+  - United Kingdom: Pre-lockdown 2020 (73.46), Post-lockdown 2020 (84.46)
+  - Germany: Pre-lockdown 2020 (73.23), Post-lockdown 2020 (69.03)
+  - France: Pre-lockdown 2020 (52.35), Post-lockdown 2020 (64.3)
+  - Italy: Pre-lockdown 2020 (38.64), Post-lockdown 2020 (33.11)
+  - Spain: Pre-lockdown 2020 (24.89), Post-lockdown 2020 (22.19)
+  - Netherlands: Pre-lockdown 2020 (12.65), Post-lockdown 2020 (10.16)
+  - Belgium: Pre-lockdown 2020 (9.62), Post-lockdown 2020 (7.58)
+
+- Legend:
+  - Blue Circle: Pre-lockdown 2020
+  - Dark Blue Circle: Post-lockdown 2020
+
+- Footer:
+  - © Statista 2021
+  - Additional Information
+  - Show source

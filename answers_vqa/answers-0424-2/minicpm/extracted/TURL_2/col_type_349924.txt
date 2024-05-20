@@ -1,0 +1,140 @@
+Table:
+
+- rank | nation
+- 1 | Russia
+- 2 | China
+- 3 | Romania
+- 4 | France
+- 5 | Italy
+- 6 | Ukraine
+- 7 | Estonia
+- 8 | South Korea
+- 9 | Hungary
+- 10 | Sweden
+- 11 | Germany
+- 12 | United States
+- 13 | Switzerland
+- 14 | Venezuela
+- 15 | Portugal
+- 16 | China Taipei
+- 17 | Hong Kong
+- 18 | Brazil
+- 19 | Kazakhstan
+- 20 | Canada
+- 21 | South Africa
+- 22 | Uzbekistan
+- 23 | Japan
+- 24 | Mexico
+- 25 | Israel
+- 26 | Finland
+- 27 | Singapore
+- 28 | Mongolia
+- 29 | Serbia
+- 30 | Denmark
+- 31 | Australia
+- 32 | New Zealand
+- 33 | Poland
+- 34 | Denmark
+- 35 | Australia
+- 36 | New Zealand
+- 37 | Poland
+- 38 | Denmark
+- 39 | Australia
+- 40 | New Zealand
+- 41 | Poland
+- 42 | Denmark
+- 43 | Australia
+- 44 | New Zealand
+- 45 | Poland
+- 46 | Denmark
+- 47 | Australia
+- 48 | New Zealand
+- 49 | Poland
+- 50 | Denmark
+- 51 | Australia
+- 52 | New Zealand
+- 53 | Poland
+- 54 | Denmark
+- 55 | Australia
+- 56 | New Zealand
+- 57 | Poland
+- 58 | Denmark
+- 59 | Australia
+- 60 | New Zealand
+- 61 | Poland
+- 62 | Denmark
+- 63 | Australia
+- 64 | New Zealand
+- 65 | Poland
+- 66 | Denmark
+- 67 | Australia
+- 68 | New Zealand
+- 69 | Poland
+- 70 | Denmark
+- 71 | Australia
+- 72 | New Zealand
+- 73 | Poland
+- 74 | Denmark
+- 75 | Australia
+- 76 | New Zealand
+- 77 | Poland
+- 78 | Denmark
+- 79 | Australia
+- 80 | New Zealand
+- 81 | Poland
+- 82 | Denmark
+- 83 | Australia
+- 84 | New Zealand
+- 85 | Poland
+- 86 | Denmark
+- 87 | Australia
+- 88 | New Zealand
+- 89 | Poland
+- 90 | Denmark
+- 91 | Australia
+- 92 | New Zealand
+- 93 | Poland
+- 94 | Denmark
+- 95 | Australia
+- 96 | New Zealand
+- 97 | Poland
+- 98 | Denmark
+- 99 | Australia
+- 100 | New Zealand
+- 101 | Poland
+- 102 | Denmark
+- 103 | Australia
+- 104 | New Zealand
+- 105 | Poland
+- 106 | Denmark
+- 107 | Australia
+- 108 | New Zealand
+- 109 | Poland
+- 110 | Denmark
+- 111 | Australia
+- 112 | New Zealand
+- 113 | Poland
+- 114 | Denmark
+- 115 | Australia
+- 116 | New Zealand
+- 117 | Poland
+- 118 | Denmark
+- 119 | Australia
+- 120 | New Zealand
+- 121 | Poland
+- 122 | Denmark
+- 123 | Australia
+- 124 | New Zealand
+- 125 | Poland
+- 126 | Denmark
+- 127 | Australia
+- 128 | New Zealand
+- 129 | Poland
+- 130 | Denmark
+- 131 | Australia
+- 132 | New Zealand
+- 133 | Poland
+- 134 | Denmark
+- 135 | Australia
+- 136 | New Zealand
+- 1

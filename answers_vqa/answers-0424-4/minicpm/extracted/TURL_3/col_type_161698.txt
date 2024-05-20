@@ -1,0 +1,46 @@
+Table:
+
+- route: 850
+  - start: Narellan
+  - via: Oran Park
+  - end: Minto
+
+- route: 870
+  - start: Campbelltown Hospital
+  - via: Campbelltown, Ingleburn, Harrow Road & Glenfield Road
+  - end: Liverpool
+
+- route: 871
+  - start: Campbelltown Hospital
+  - via: Campbelltown, Ingleburn, Glenfield Lane & Leakes Lane
+  - end: Liverpool
+
+- route: 872
+  - start: Campbelltown Hospital
+  - via: Campbelltown Square, Ingleburn, Harrow Road & Glenfield Lane
+  - end: Liverpool
+
+- route: 873
+  - start: Inglestone Burn
+  - via: Lagonda Drive
+  - end: Liverpool
+
+- route: 874
+  - start: Ruby
+  - via: St Andrews
+  - end: Minto
+
+- route: 875
+  - start: St Andrews
+  - via: Bowing
+  - end: Minto
+
+- route: 876
+  - start: Macquarie Fields Eucalyptus Drive, Macquarie Fields
+  - via: Glenfield Loop
+  - end: Minto
+
+- route: 901
+  - start: S Glenfield
+  - via: Glenfield Loop
+  - end: Glenfield Station

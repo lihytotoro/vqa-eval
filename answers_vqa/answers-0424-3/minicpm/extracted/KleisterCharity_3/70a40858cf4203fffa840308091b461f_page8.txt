@@ -1,0 +1,33 @@
+Title: OXFORSHIRE MOTOR PROJECT/T/A TRAX COMPANY LIMITED BY GUARANTEE
+
+Subtitle: BALANCE SHEET 31 MARCH 2014
+
+Table:
+- Column Headers: Note, 2013 (restated), 2014 (restated)
+- Row 1: FIXED ASSETS, 14, 51,841, 49,395
+- Row 2: Tangible assets, 14, 24,590, 52,357
+- Row 3: Debtors, 14, 9,41, 57,165
+- Row 4: Cash at bank and in hand, 14, 22,600, 40,727
+- Row 5: CREDITORS: Amounts falling due within one year, 14, 29,023, (40,023)
+- Row 6: NET CURRENT ASSETS (LIABILITIES), 14, 29,023, (40,023)
+- Row 7: TOTAL ASSETS LESS CURRENT LIABILITIES, 14, 40,83, 68,662
+- Row 8: CREDITORS: Amounts falling due after more than one year, 14, 40,83, 68,662
+- Row 9: NET ASSETS, 14, 40,83, 68,662
+- Row 10: CREDITORS: Amounts falling due within one year, 14, 40,83, 68,662
+- Row 11: NET CURRENT ASSETS (LIABILITIES), 14, 40,83, 68,662
+- Row 12: TOTAL ASSETS LESS CURRENT LIABILITIES, 14, 40,83, 68,662
+- Row 13: CREDITORS: Amounts falling due after more than one year, 14, 40,83, 68,662
+- Row 14: NET ASSETS, 14, 40,83, 68,662
+- Row 15: CREDITORS: Amounts falling due within one year, 14, 40,83, 68,662
+- Row 16: NET CURRENT ASSETS (LIABILITIES), 14, 40,83, 68,662
+- Row 17: TOTAL ASSETS LESS CURRENT LIABILITIES, 14, 40,83, 68,662
+- Row 18: CREDITORS: Amounts falling due after more than one year, 14, 40,83, 68,662
+- Row 19: NET ASSETS, 14, 40,83, 68,662
+- Row 20: CREDITORS: Amounts falling due within one year, 14, 40,83, 68,662
+- Row 21: NET CURRENT ASSETS (LIABILITIES), 14, 40,83, 68,662
+- Row 22: TOTAL ASSETS LESS CURRENT LIABILITIES, 14, 40,83, 68,662
+- Row 23: CREDITORS: Amounts falling due after more than one year, 14, 40,83, 68,662
+- Row 24: NET ASSETS, 14, 40,83, 68,662
+- Row 25: CREDITORS: Amounts falling due within one year, 14, 40,83, 68,662
+- Row 26: NET CURRENT ASSETS (LIABILITIES), 14, 40,83, 68,662
+- Row 27: TOTAL ASSETS LESS CURRENT LIABILITIES, 14, 4

@@ -1,0 +1,24 @@
+Title: Other notable offshore wind farms
+Subtitle: Capacity (MW)
+Body Text:
+- Altamontmont Wind Farm: 576
+- Gansu Wind Farm: 1,560
+- Jaisalmer Wind Farm: 1,064
+- Lower Snake River Wind Farm: 343
+- MacArthur Macdonald Wind Farm: 420
+- Milford Wind Project: 203
+- San Goncino Pass Wind Farm: 615
+- Shepherds Flat Wind Farm: 845
+- Tehachapi Wind Farm: 705
+- Notes:
+- USA: multiple farms
+- California: multiple farms
+- China: multiple farms
+- India: multiple farms
+- Washington: constructed and operational nov 2012
+- USA: multiple farms
+- Utah: MW second phase under construction
+- USA: multiple farms
+- Oregon: multiple farms
+- California: multiple farms
+- California: multiple farms

@@ -1,0 +1,33 @@
+The image shows a bar chart with the following data points:
+
+- United Kingdom: 84.46
+- Germany: 73.46
+- France: 69.03
+- Italy: 52.35
+- Spain: 38.14
+- Netherlands: 33.11
+- Switzerland: 24.89
+- Belgium: 12.65
+- Sweden: 10.16
+- Belgium: 9.62
+- Belgium: 7.58
+
+Below the chart, there is a legend indicating the color associated with each country:
+- United Kingdom: Dark Blue
+- Germany: Dark Blue
+- France: Dark Blue
+- Italy: Dark Blue
+- Spain: Dark Blue
+- Netherlands: Dark Blue
+- Switzerland: Dark Blue
+- Belgium: Dark Blue
+- Sweden: Dark Blue
+- Belgium: Dark Blue
+- Belgium: Dark Blue
+
+At the bottom of the image, there are two clickable options:
+- Additional Information
+- Show source
+
+In the bottom right corner, there is a copyright notice:
+- © Statista 2021

@@ -1,0 +1,12 @@
+Title: MATERIALS AND METHODS
+
+Body Text:
+Thirty-one participants (age range 19-30 years old) were recruited by completing an on-line survey which asks about Facebook Intensity Scale. The Facebook Intensity Scale is a time much a user spends on Facebook. How many friends has a user, and how much a user identifies with the website. Participants were selected to have a broad range of Facebook intensity scores.
+
+The experiment took place over two days. On Day 1, Facebook users were given a brief interview consisting of questions like, “What do you like to do in your free time?” Participants then left the lab to wait for Day 2. Importantly, before the interview, they were told that Day 1 and Day 2, the recorded video interview would be individually observed by 10 anonymous reviewers. After seeing the video, the viewer would select 10-15 from a list of 200 objectives that they thought accurately described the participant. When the participant returned Day 2, they were placed in an fMRI scanner while they performed two different tasks (see Figure 1). In one task, the “description task,” participants discovered what they believed the reviewers thought of them, or what the reviewers thought of them. Another person who also partook in the experiment partook in the part of the experiment. In reality, the participants and the other participant received a pre-determined range of positive words for both themselves and the other participant. In the other task, “card trials,” participants chose one of three cards and then found out if they won money.
+
+Footer:
+Card Trial
+A B C D
+75 B C
+3-7.5 s

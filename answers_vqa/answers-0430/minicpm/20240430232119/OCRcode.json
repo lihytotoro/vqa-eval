@@ -1,0 +1,362 @@
+[
+    {
+        "question_id": null,
+        "question": "I've attached an image below. Locate the text in the image.",
+        "answer": "The image contains the following text:\n\n```\na, b, c = 6, 7, 12\nd = a - b + c\nprint(b)\n```",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/814.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Please examine the attached document closely. Based on the layout information, output all the text contents in the image. Try not to modify the text contents, but you need to indicate the structure of this screenshot, such as title, body text, subtitle, menu, table, etc.",
+        "answer": "The image contains a code snippet in a programming language. Here is the text content structured as it appears in the image:\n\n```python\na = 'dog'\nb = a.replace('dog', 'cat')\nprint(b)\n```\n\nThis code assigns the string `'dog'` to the variable `a`, then replaces all occurrences of `'dog'` in `a` with `'cat'` and assigns the result to `b`. Finally, it prints the value of `b` to the console.",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/804.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Report any text visible in the image.",
+        "answer": "print(\"Hello, C++!\")",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/818.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Based on the layout information, output all the text contents in the image. Try not to modify the text contents, but you need to indicate the structure of this screenshot, such as title, body text, subtitle, menu, table, etc.",
+        "answer": "#include <iostream>\n\nusing namespace std;\n\nint main() {\n    cout << \"Hello World\";\n    return 0;\n}",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/792.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Good day, could you please take a look at the attached image, Based on the layout information, output all the text contents in the image. Try not to modify the text contents, but you need to indicate the structure of this screenshot, such as title, body text, subtitle, menu, table, etc.",
+        "answer": "The image contains a code snippet in a programming language. Here is the text content structured as it appears:\n\n```\na = [1, 2, 3, 4, 5]\nfor i in a:\n    if i == (len(a)-2):\n        print(i)\n```\n\nThis is a Python code snippet that initializes a list `a` with numbers from 1 to 5, then iterates over each element `i` in the list. Inside the loop, it checks if the current element `i` is equal to the second-to-last element of the list (`len(a)-2`). If the condition is true, it prints the value of `i`.",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/786.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "The following document includes textual content. Highlight the text in the image.",
+        "answer": "The image contains the following text:\n\n```\nprint(\"Hello, C++!\")\n```",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/819.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Locate the text in the image.",
+        "answer": "a, b, c = 6, 7, 12\nd = a - b + c\nprint(b)",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/815.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Please focus on the record provided here. Based on the layout information, output all the text contents in the image. Try not to modify the text contents, but you need to indicate the structure of this screenshot, such as title, body text, subtitle, menu, table, etc.",
+        "answer": "The image contains a code snippet in a programming language. Here is the text content structured as it appears:\n\n```\na = [1, 2, 6, 9]\nb = max(a) + a[1]\nprint(b)\n```\n\nThis code defines a list `a` with elements `[1, 2, 6, 9]`, calculates the maximum value of `a` and adds the second element of `a` to it, storing the result in `b`, and then prints the value of `b`.",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/808.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Summarize the text found in the image. Please execute this task as instructed.",
+        "answer": "The image contains a code snippet written in a programming language. Here is the text as it appears in the image:\n\n```python\na = [1, 6, 2, 7, 3, 4, 5]\nb = a[0] + a[1]\nprint(b)\n```\n\nThis code defines a list `a` with elements `[1, 6, 2, 7, 3, 4, 5]`, assigns the sum of the first two elements of `a` to `b`, and then prints the value of `b`.",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/807.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Based on the layout information, output all the text contents in the image. Try not to modify the text contents, but you need to indicate the structure of this screenshot, such as title, body text, subtitle, menu, table, etc.",
+        "answer": "The image contains a code snippet in a programming language. Here is the transcription of the text in the image:\n\n```python\na = '12345'\nb = a.find('1')\nprint(b)\n```\n\nThis code defines a variable `a` with the value `'12345'` and another variable `b` which is assigned the result of the `find()` method applied to `a` with the argument `'1'`. The `find()` method returns the index of the first occurrence of `'1'` in `a`. Finally, the value of `b` is printed.",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/801.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Based on the layout information, output all the text contents in the image. Try not to modify the text contents, but you need to indicate the structure of this screenshot, such as title, body text, subtitle, menu, table, etc.",
+        "answer": "The image contains a code snippet in a programming language. Here is the text content structured as it appears in the image:\n\n```python\na = 'dog'\nb = a.replace('dog', 'cat')\nprint(b)\n```\n\nThis code assigns the string `'dog'` to the variable `a`, then uses the `replace()` method to replace all occurrences of `'dog'` in `a` with `'cat'`, storing the result in `b`. Finally, it prints the value of `b` to the console.",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/805.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Could you please take a look at the attached image, Please extract and provide a transcription of any text found within the displayed image.",
+        "answer": "a = [1,2,6,9,0]\nprint(inn(a))",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/790.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Notice the image included in this message. Use the image provided to identify and list all embedded text for transcription purposes. Appreciate your effort!",
+        "answer": "The image contains a code snippet in a programming language. Here is the transcription of the text in the image:\n\n```\na = [1, 2, 4, 5]\nr = 0\nfor x in a:\n    r = r + x\nprint(r)\n```\n\nThis is a Python code that initializes a list `a` with values `[1, 2, 4, 5]`, sets a variable `r` to `0`, and then iterates over each element `x` in the list `a`. Inside the loop, it updates the value of `r` by adding the current value of `x` to it. Finally, it prints the value of `r` using the `print()` function.",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/788.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Can you identify all the text visible in the image, transcribe it verbatim, and ensure no text is missed or changed in the process?",
+        "answer": "The image contains the following text, which appears to be a code snippet in a programming language:\n\n```\na = 'a dog/a cat'\nb = a.split(\"/\")\nprint(b[1])\n```\n\nThis code assigns the string `'a dog/a cat'` to the variable `a`, then uses the `split()` method to split the string into a list of substrings using the forward slash (`/`) as the delimiter. The resulting list is assigned to the variable `b`. Finally, the code prints the second element of the list `b`, which is the substring after the forward slash in the original string.",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/783.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Please extract and provide a transcription of any text found within the displayed image.",
+        "answer": "The image contains a piece of code written in a programming language. Here is the transcription of the text:\n\n```\na = [1, 2, 4, 5]\nr = 0\nfor x in a:\n    r = r + x\nprint(r)\n```\n\nThis is a Python code snippet that initializes a list `a` with values [1, 2, 4, 5], sets a variable `r` to 0, and then iterates over each element `x` in the list `a`. Inside the loop, it updates the value of `r` by adding the current value of `x` to it. Finally, it prints the value of `r` using the `print()` function.",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/789.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Hello there, an paper has been provided for your analysis. Based on the layout information, output all the text contents in the image. Try not to modify the text contents, but you need to indicate the structure of this screenshot, such as title, body text, subtitle, menu, table, etc.",
+        "answer": "The image contains a code snippet in a programming language. Here is the text content, structured as it appears in the image:\n\n```\na = [1, 2, 3, 4, 5]\nfor i in a:\n    if i == (len(a)-2):\n        print(i)\n```\n\nThis is a Python code snippet that initializes a list `a` with numbers from 1 to 5, then iterates over each element `i` in the list. Inside the loop, it checks if the current element `i` is equal to the second-to-last element of the list (`len(a)-2`). If the condition is true, it prints the value of `i`.",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/787.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "I've attached an paper below. Identify every piece of text it contains, and transcribe them exactly as they appear? It is crucial that the transcription is accurate and complete, reflecting all text without modifications.",
+        "answer": "a = 1.5\nb = int(a)\nprint(b)",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/798.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Show all text appearing in the image. Please execute this task as instructed.",
+        "answer": "The image contains the following text, which appears to be a code snippet in a programming language:\n\n```\na = 'a dog/a cat'\nb = a.split(' ')\nprint(b)\n```\n\nThis code assigns the string `'a dog/a cat'` to the variable `a` and then uses the `split()` method to split the string into a list of words based on the space character. The resulting list is assigned to the variable `b`. Finally, the list `b` is printed to the console.",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/782.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Find the text in the image.",
+        "answer": "a = [1,2,4,5]\nprint(sum(a))",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/785.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Detect the text within the image.",
+        "answer": "a = 6\nb = a**2\nprint(b)",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/796.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Could you please take a look at the attached image, Pinpoint and indicate the text within the image.",
+        "answer": "The image contains a snippet of code in a programming language. Here is the text as it appears, with the structure indicated:\n\n```\nx='job'\nif x=='job':\n    print('working hard')\nelse:\n    print('playing hard')\n```\n\nThis is a simple conditional statement in Python, where if the variable `x` is equal to `'job'`, it will print `'working hard'`, otherwise it will print `'playing hard'`.",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/802.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Please examine the attached image closely. Based on the layout information, output all the text contents in the image. Try not to modify the text contents, but you need to indicate the structure of this screenshot, such as title, body text, subtitle, menu, table, etc.",
+        "answer": "The image contains a snippet of code in a programming language. Here is the transcription of the text in the image:\n\n```\nx = 10\nif x < 20:\n    print(\"Hello\")\nelse:\n    print(\"World\")\n```\n\nThis code snippet defines a variable `x` with a value of 10, then checks if `x` is less than 20. If the condition is true, it prints the string \"Hello\". If the condition is false, it prints the string \"World\".",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/780.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Conduct a thorough search for text in the image and output the findings.",
+        "answer": "The image contains the following text:\n\na = '12345'\nb = a[1:-1]\nprint(b)",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/794.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Ensure that all text within the document is recognized and faithfully transcribed.",
+        "answer": "a = [1,6,2,7,3,4,5]\nb = a[0] + a[1]\nprint(b)",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/806.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Can you identify all the text visible in the image, transcribe it verbatim, and ensure no text is missed or changed in the process?",
+        "answer": "x = 10\n\nif x < 20:\n    print(\"Hello\")\nelse:\n    print(\"World\")",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/781.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Based on the layout information, output all the text contents in the image. Try not to modify the text contents, but you need to indicate the structure of this screenshot, such as title, body text, subtitle, menu, table, etc.",
+        "answer": "my_list = [1, 2, 3, 4, 5]\nfor i in my_list:\n    print(i)",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/813.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Based on the layout information, output all the text contents in the image. Try not to modify the text contents, but you need to indicate the structure of this screenshot, such as title, body text, subtitle, menu, table, etc.",
+        "answer": "a = [1,2,4,5]\nprint(sum(a))",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/784.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Please extract and provide a transcription of any text found within the displayed image.",
+        "answer": "The image contains a code snippet in a programming language. Here is the text as it appears in the image:\n\n```\na = 1.5\nb = int(a)\nprint(b)\n```\n\nThis code snippet assigns the value 1.5 to the variable `a`, converts the value of `a` to an integer using the `int()` function and assigns it to the variable `b`, and then prints the value of `b` using the `print()` function.",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/799.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "I've attached an record below. Ensure that all text within the record is recognized and faithfully transcribed.",
+        "answer": "my_list = [1, 2, 3, 4, 5]\nfor i in my_list:\n    print(i)",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/812.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Conduct a thorough search for text in the image and output the findings.",
+        "answer": "The image contains the following text, structured as a code snippet:\n\n```python\na = [1,2,4,5]\nif len(a) > 2:\n    print('the list has more than 2 numbers')\nelse:\n    print('the list has less than 2 numbers')\n```",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/817.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Locate the text in the image.",
+        "answer": "a = 6\nb = a**2\nprint(b)",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/797.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Process the paper to extract and transcribe visible text content accurately.",
+        "answer": "a = [1,2,6,9,0]\nprint(min(a))",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/791.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Read and transcribe the text from the image.",
+        "answer": "x=5\nif x>10:\nprint('x is larger than 10')\nelse:\nprint('x is smaller than 10')",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/811.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Based on the layout information, output all the text contents in the image. Try not to modify the text contents, but you need to indicate the structure of this screenshot, such as title, body text, subtitle, menu, table, etc.",
+        "answer": "x=5\n\nif x>10:\n\nprint('x is larger than 10')\n\nelse:\n\nprint('x is smaller than 10')",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/810.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Could you please take a look at the attached image, Based on the layout information, output all the text contents in the image. Try not to modify the text contents, but you need to indicate the structure of this screenshot, such as title, body text, subtitle, menu, table, etc.",
+        "answer": "The image contains a code snippet in a programming language. Here is the text content structured as it appears in the image:\n\n```\n#include <iostream>\nusing namespace std;\n\nint main() {\n    cout << \"Hello World\";\n    return 0;\n}\n```",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/793.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Locate the text in the image. Thanks for your attention to detail!",
+        "answer": "The text in the image is as follows:\n\na = '12345'\nb = a[1:-1]\nprint(b)",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/795.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Process the document to extract and transcribe visible text content accurately.",
+        "answer": "a = [1,2,4,5]\nif len(a) > 2:\n    print('the list has more than 2 numbers')\nelse:\n    print('the list has less than 2 numbers')",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/816.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Dear, Detect the text within the image.",
+        "answer": "x='job'\nif x=='job':\n    print('working hard')\nelse:\n    print('playing hard')",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/803.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Could you please take a look at the attached image, Use the document provided to identify and list all embedded text for transcription purposes.",
+        "answer": "The image contains a code snippet in a programming language. Here is the text content structured as it appears in the image:\n\n```python\na = '12345'\nb = a.find('1')\nprint(b)\n```\n\nThis code defines a variable `a` with the value `'12345'`, then uses the `find()` method to search for the character `'1'` within `a` and assigns the result to `b`. Finally, it prints the value of `b` using the `print()` function.",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/800.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Hi there, notice the image included in this message. Conduct a thorough search for text in the document and output the findings.",
+        "answer": "The image contains a code snippet in a programming language. Here is the text content structured as it appears in the image:\n\n```python\na = [1,2,6,9]\nb = max(a) + a[1]\nprint(b)\n```\n\nThis code defines a list `a` with elements `[1, 2, 6, 9]`, calculates the maximum value of `a` and adds the second element of `a` to it, storing the result in `b`. Finally, it prints the value of `b`.",
+        "gt_answers": "",
+        "image_path": "/home/cuijunbo/LMUData/images/MME/809.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    }
+]

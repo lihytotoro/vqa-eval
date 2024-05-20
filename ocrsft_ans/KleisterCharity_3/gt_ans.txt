@@ -1,0 +1,44 @@
+Title:
+King's School, Bruton
+(COMPANY LIMITED BY GUARANTEE)
+NOTES TO THE FINANCIAL STATEMENTS for the year ended 30 June 2016
+
+Subtitle:
+15. BORROWINGS
+
+Table 1:
+- Column headers: Group 2016, School 2016, Group 2015, School 2015 (all in £)
+- Row 1: Bank loans with figures 1,067,598 for both Group and School 2016, and 1,289,010 for both Group and School 2015.
+- Row 2: Total for Bank loans matches the above figures.
+- Row 3: Payable within one year with figures 226,247 for both Group and School 2016, and 221,001 for both Group and School 2015.
+- Row 4: Payable after one year with figures 841,351 for both Group and School 2016, and 1,068,009 for both Group and School 2015.
+- Row 5: Total for Borrowings matches the first row figures.
+
+Text:
+See note 14 for details of bank loans.
+
+Subtitle:
+16. ADVANCED FEES SCHEME (GROUP AND SCHOOL)
+
+Table 2:
+- Column headers: 2016, 2015 (all in £)
+- Row 1: Shown as: Amounts due within one year (note 13) with figures 236,717 for 2016 and 195,656 for 2015.
+- Row 2: Shown as: Amounts due within two to five years with figures 134,517 for 2016 and 81,520 for 2015.
+- Row 3: Amounts due within one to two years with figures 195,431 for 2016 and 125,542 for 2015.
+- Row 4: Amounts due after more than one year (note 14) with figures 329,948 for 2016 and 207,062 for 2015.
+- Row 5: Total advance fee scheme with figures 566,665 for 2016 and 402,718 for 2015.
+
+Text:
+The balance represents the accrued liability under the contracts. The capital movements during the year were:
+
+Table 3:
+- Column headers: £, £
+- Row 1: Balance brought forward with figures 402,718 for the first column and 387,714 for the second column.
+- Row 2: New contracts with figures 441,524 for the first column and 173,762 for the second column.
+- Row 3: Amounts accrued to contracts as debt-financing costs with figures 7,592 for the first column and 5,618 for the second column.
+- Row 4: Amount utilised in payment of fees with figures (259,544) for the first column and (164,376) for the second column.
+- Row 5: Capital repaid with figures (15,625) for the first column.
+- Row 6: Balance carried forward with figures 566,665 for the first column and 402,718 for the second column.
+
+Footer:
+Page 36

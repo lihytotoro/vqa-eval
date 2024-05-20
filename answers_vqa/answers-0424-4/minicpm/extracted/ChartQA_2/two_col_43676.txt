@@ -1,0 +1,19 @@
+The image shows a bar chart with the following data points labeled on each bar:
+
+- 2012: 49
+- 2013: 50
+- 2014: 52
+- 2015: 50
+- 2016: 49
+- 2017: 47
+- 2018: 47
+- 2019: 53
+- 2020: 51
+
+The y-axis of the chart is labeled "Corruption Perceptions Index," and the x-axis lists the years from 2012 to 2020.
+
+At the bottom of the image, there are two clickable options:
+- Additional Information
+- Show source
+
+In the bottom right corner, there is a copyright notice that reads "© Statista 2021".

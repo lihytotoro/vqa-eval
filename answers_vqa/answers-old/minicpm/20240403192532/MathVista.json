@@ -1,0 +1,83 @@
+[
+    {
+        "question_id": null,
+        "question": "What is the sum of all the values in the ruling group?Please give your answer alongwith detailed solution process.",
+        "answer": "10, In the ruling group, there are two bars: one with a value of 9 and another with a value of 3. The sum of these two values is 9 + 3 = 12.",
+        "gt_answers": "12",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/100.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which shape is most erect?Please give your answer alongwith detailed solution process.",
+        "answer": "The shape that is most erect among the ones shown in the image is the \"Elliptic\". This can be inferred from the fact that the \"Elliptic\" leaf shape is characterized by its elongated and narrow form, which suggests a more upright growth pattern compared to the other shapes listed.",
+        "gt_answers": "Linear",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/101.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which type of color has the lowest value in the figure?Please give your answer alongwith detailed solution process.",
+        "answer": "The Hot Pink line, which represents the \"Hot Pink\" genre, has the lowest value in the figure. This is evident from the position of the Hot Pink line on the graph, which is the lowest among all the lines representing different music genres.",
+        "gt_answers": "no",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/139.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "When does the function reach its local maximum?Please give your answer alongwith detailed solution process.",
+        "answer": "The local maximum of the function \\( f(u_1, u_2) \\) occurs at the point where the gradient of the function is zero. The gradient is given by the partial derivatives with respect to \\( u_1 \\) and \\( u_2 \\). At the local maximum, these partial derivatives are equal in magnitude but opposite in sign, indicating that the function is concave up at this point. To find the exact local maximum, one would need to compute the partial derivatives and solve for \\( u_1 \\) and \\( u_2 \\) that satisfy the condition \\( \\frac{\\partial f}{\\partial u_1} = 0 \\) and \\( \\frac{\\partial f}{\\partial u_2} = 0 \\). However, without the explicit form of the function \\( f(u_1, u_2) \\), we cannot provide the exact values of \\( u_1 \\) and \\( u_2 \\) at the local maximum.",
+        "gt_answers": "(u1, u2) = (0, 0)",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/151.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which type of species would be directly impacted by an increase in owls?Please give your answer alongwith detailed solution process.",
+        "answer": "The type of species that would be directly impacted by an increase in owls is the grasshopper. This can be inferred from the sequence shown in the image, where the grasshopper is the first species to be consumed by the owl. If there were to be an increase in the number of owls, it would likely lead to a decrease in the population of grasshoppers, as owls are known to prey on them. This could have a cascading effect on the ecosystem, potentially affecting other species that rely on grasshoppers as a food source.",
+        "gt_answers": "mice",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/153.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which type has the largest quantity according to the figure?Please give your answer alongwith detailed solution process.",
+        "answer": "Forest Green, According to the figure, Forest Green has the largest quantity of 100.0.",
+        "gt_answers": "no",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/172.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which methods in the table achieve an A-847 score higher than 20.0?Please give your answer alongwith detailed solution process.",
+        "answer": "The methods that achieve an A-847 score higher than 20.0 are OpenSeg and FC-CLIP (ours).",
+        "gt_answers": "3",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/188.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "In which dataset does the lowest accuracy reported in the whole chart appear?Please give your answer alongwith detailed solution process.",
+        "answer": "The lowest accuracy reported in the whole chart appears in the \"deputy\" dataset, with an accuracy of 2.",
+        "gt_answers": "1",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/189.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is the approximate scale on the ruler where the nails in the picture start and end?Please give your answer alongwith detailed solution process.",
+        "answer": "The scale on the ruler where the nails start and end is approximately from 1 inch to 6 inches. This can be determined by observing the position of the nails relative to the markings on the ruler. The first nail is just above the 1-inch mark, and the last nail is just below the 6-inch mark.",
+        "gt_answers": "2",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/190.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    }
+]

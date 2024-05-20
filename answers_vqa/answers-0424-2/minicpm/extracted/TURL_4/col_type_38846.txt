@@ -1,0 +1,52 @@
+Title: None
+
+Table:
+- Column 1: composer
+  - Ghanashyam Krishna
+  - Imaiyanthara
+  - Kavirajani
+  - Mudduswamy
+  - Oktaviana
+  - Pachamiya
+  - Thiruvalluvar
+  - Swati
+
+- Column 2: years
+  - 1790-1856
+  - 1782-1856
+  - 1801-1856
+  - 1801-1856
+  - 1775-1856
+  - 18th century
+  - 1801-1856
+  - 1801-1856
+
+- Column 3: languages
+  - Tamil
+  - Tamil
+  - Tamil
+  - Tamil
+  - Tamil
+  - Tamil
+  - Tamil
+  - Tamil
+
+- Column 4: approx. number of compositions
+  - 85
+  - 40
+  - 200
+  - 200
+  - 400
+  - 200
+  - 200
+  - 200
+
+- Column 5: other info
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None
+  - None

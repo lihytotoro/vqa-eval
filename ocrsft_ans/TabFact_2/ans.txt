@@ -1,0 +1,45 @@
+Title: Round Three
+
+Table:
+| Pick # | Team | Player | Position | Affiliation |
+| --- | --- | --- | --- | --- |
+| 37 | Vancouver Whitecaps FC | Bilyal Duckett | Defender | University of Notre Dame |
+| 38 | New York Red Bulls | Billy Gerhardt | Defender | University of Notre Dame |
+| 39 | New England Revolution | Steven Gerrard | Midfielder | University of Notre Dame |
+| 40 | Chivas USA | Jon Ohara | Midfielder | Brown University |
+| 41 | Philadelphia Union | Union | Midfielder | University of Maryland, Baltimore County |
+| 42 | New England Revolution | Levi Hughes | Midfielder | University of Maryland, Baltimore County |
+| 43 | Toronto FC | Jonathan Osorio | Midfielder | University of Maryland, Baltimore County |
+| 44 | Toronto FC | Michael Bradley | Midfielder | University of Maryland, Baltimore County |
+| 45 | Chicago Fire | Bastian Schweinsteiger | Midfielder | University of Maryland, Baltimore County |
+| 46 | Kansas City Wizards | Jeremy Brockman | Midfielder | University of Maryland, Baltimore County |
+| 47 | Columbus Crew | Justin Meram | Midfielder | University of Maryland, Baltimore County |
+| 48 | Toronto FC | Jozy Altidore | Midfielder | University of Maryland, Baltimore County |
+| 49 | Toronto FC | Joe Mawson | Midfielder | University of Maryland, Baltimore County |
+| 50 | Chicago Fire | David Accam | Midfielder | University of Maryland, Baltimore County |
+| 51 | Columbus Crew | Justin Meram | Midfielder | University of Maryland, Baltimore County |
+| 52 | Toronto FC | Jonathan Osorio | Midfielder | University of Maryland, Baltimore County |
+| 53 | Toronto FC | Michael Bradley | Midfielder | University of Maryland, Baltimore County |
+| 54 | Chicago Fire | Bastian Schweinsteiger | Midfielder | University of Maryland, Baltimore County |
+| 55 | Kansas City Wizards | Jeremy Brockman | Midfielder | University of Maryland, Baltimore County |
+| 56 | Columbus Crew | Justin Meram | Midfielder | University of Maryland, Baltimore County |
+| 57 | Toronto FC | Jozy Altidore | Midfielder | University of Maryland, Baltimore County |
+| 58 | Toronto FC | Joe Mawson | Midfielder | University of Maryland, Baltimore County |
+| 59 | Chicago Fire | David Accam | Midfielder | University of Maryland, Baltimore County |
+| 60 | Columbus Crew | Justin Meram | Midfielder | University of Maryland, Baltimore County |
+| 61 | Toronto FC | Jonathan Osorio | Midfielder | University of Maryland, Baltimore County |
+| 62 | Toronto FC | Michael Bradley | Midfielder | University of Maryland, Baltimore County |
+| 63 | Chicago Fire | Bastian Schweinsteiger | Midfielder | University of Maryland, Baltimore County |
+| 64 | Kansas City Wizards | Jeremy Brockman | Midfielder | University of Maryland, Baltimore County |
+| 65 | Columbus Crew | Justin Meram | Midfielder | University of Maryland, Baltimore County |
+| 66 | Toronto FC | Jozy Altidore | Midfielder | University of Maryland, Baltimore County |
+| 67 | Toronto FC | Joe Mawson | Midfielder | University of Maryland, Baltimore County |
+| 68 | Chicago Fire | David Accam | Midfielder | University of Maryland, Baltimore County |
+| 69 | Columbus Crew | Justin Meram | Midfielder | University of Maryland, Baltimore County |
+| 70 | Toronto FC | Jonathan Osorio | Midfielder | University of Maryland, Baltimore County |
+| 71 | Toronto FC | Michael Bradley | Midfielder | University of Maryland, Baltimore County |
+| 72 | Chicago Fire | Bastian Schweinsteiger | Midfielder | University of Maryland, Baltimore County |
+| 73 | Kansas City Wizards | Jeremy Brockman | Midfielder | University of Maryland, Baltimore County |
+| 74 | Columbus Crew | Justin Meram | Midfielder | University of Maryland, Baltimore County |
+| 75 | Toronto FC | Jozy Altidore | Midfielder | University of Maryland, Baltimore County |
+| 76 | Toronto FC | Joe Mawson |

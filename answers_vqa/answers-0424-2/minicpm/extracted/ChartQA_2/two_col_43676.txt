@@ -1,0 +1,15 @@
+The image displays a bar chart with the following data points:
+
+- 2012: 49
+- 2013: 50
+- 2014: 52
+- 2015: 50
+- 2016: 49
+- 2017: 47
+- 2018: 47
+- 2019: 51
+- 2020: 51
+
+At the bottom of the image, there are two interactive elements:
+- A link or button labeled "Additional Information"
+- A copyright notice that reads "© Statista 2021" and a link or button labeled "Show source"

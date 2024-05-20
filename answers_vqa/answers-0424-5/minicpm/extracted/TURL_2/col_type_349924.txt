@@ -1,0 +1,33 @@
+<ref>  rank rank<ref><box> 30 16 124 31</box> 
+<ref> nation Russia<ref><box> 273 16 429 31</box> 
+<ref> China<ref><box> 308 16 365 31</box> 
+<ref> Romania<ref><box> 400 16 496 31</box> 
+<ref> France<ref><box> 531 16 602 31</box> 
+<ref> Italy<ref><box> 637 16 684 31</box> 
+<ref> Ukraine<ref><box> 729 16 825 31</box> 
+<ref> Estonia<ref><box> 860 16 956 31</box> 
+<ref> South Korea<ref><box> 991 16 1130 31</box> 
+<ref> Hungary<ref><box> 1165 16 1294 31</box> 
+<ref> Sweden<ref><box> 1330 16 1459 31</box> 
+<ref> Germany<ref><box> 1494 16 1641 31</box> 
+<ref> United States<ref><box> 1676 16 1889 31</box> 
+<ref> Switzerland<ref><box> 1914 16 2100 31</box> 
+<ref> Venezuela<ref><box> 2135 16 2321 31</box> 
+<ref> Poland<ref><box> 2356 16 2503 31</box> 
+<ref> Taiwan<ref><box> 2538 16 2685 31</box> 
+<ref> France<ref><box> 2720 16 2816 31</box> 
+<ref> Brazil<ref><box> 2851 16 3008 31</box> 
+<ref> Kazakhstan<ref><box> 3043 16 3239 31</box> 
+<ref> Canada<ref><box> 3274 16 3460 31</box> 
+<ref> South Africa<ref><box> 3495 16 3739 31</box> 
+<ref> Uzbekistan<ref><box> 3774 16 3970 31</box> 
+<ref> Japan<ref><box> 4005 16 4152 31</box> 
+<ref> Mexico<ref><box> 4187 16 4384 31</box> 
+<ref> Israel<ref><box> 4419 16 4566 31</box> 
+<ref> Finland<ref><box> 4601 16 4770 31</box> 
+<ref> Singapore<ref><box> 4805 16 5002 31</box> 
+<ref> Monaco<ref><box> 5037 16 5206 31</box> 
+<ref> Singapore<ref><box> 5240 16 5437 31</box> 
+<ref> Serbia<ref><box> 5472 16 5641 31</box> 
+<ref> Denmark<ref><box> 5675 16 5904 31</box> 
+<ref> Australia<ref><box> 5939 16 6178 31</box>

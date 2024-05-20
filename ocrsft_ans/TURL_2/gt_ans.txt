@@ -1,0 +1,85 @@
+Title: None
+
+Table:
+- Column 1: composer
+- Column 2: years
+- Column 3: languages
+- Column 4: approx. number of compositions
+- Column 5: other info
+
+Row 1:
+- composer: Ghanam Krishna Iyer
+- years: 1790 - 1854
+- languages: Tamil
+- approx. number of compositions: 85
+- other info: [Blank]
+
+Row 2:
+- composer: Iraiyamman Tampi
+- years: 1782 - 1856
+- languages: Malayalam, Sanskrit
+- approx. number of compositions: 40
+- other info: [Blank]
+
+Row 3:
+- composer: Kavi Kunjara Bharati
+- years: 1810 - 1896
+- languages: Tamil
+- approx. number of compositions: 200
+- other info: [Blank]
+
+Row 4:
+- composer: Muthuswami Dikshitar
+- years: 1775 - 1835
+- languages: Sanskrit, Mani Pravalam
+- approx. number of compositions: 400
+- other info: [Blank]
+
+Row 5:
+- composer: Oottukkadu Venkata Kavi
+- years: 1700-1765
+- languages: Sanskrit, Tamil
+- approx. number of compositions: 200
+- other info: [Blank]
+
+Row 6:
+- composer: Pacchimiriam Adiyappa
+- years: 18th century
+- languages: Telugu
+- approx. number of compositions: [Blank]
+- other info: [Blank]
+
+Row 7:
+- composer: Thanjavur Quartet
+- years: 1801-1856
+- languages: Sanskrit, Tamil
+- approx. number of compositions: [Blank]
+- other info: [Blank]
+
+Row 8:
+- composer: Tiruvarur Ramaswami Pillai
+- years: 1798 - 1852
+- languages: Tamil
+- approx. number of compositions: [Blank]
+- other info: [Blank]
+
+Row 9:
+- composer: Thyagaraja Swami
+- years: 1767 - 1847
+- languages: Telugu, Sanskrit
+- approx. number of compositions: 24000 of which only 700 are available today
+- other info: [Blank]
+
+Row 10:
+- composer: Sadasiva Brahmendra
+- years: 18th century
+- languages: Sanskrit
+- approx. number of compositions: 95
+- other info: [Blank]
+
+Row 11:
+- composer: Syama Sastri
+- years: 1762 - 1827
+- languages: Telugu
+- approx. number of compositions: 400
+- other info: [Blank]

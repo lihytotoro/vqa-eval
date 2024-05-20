@@ -1,0 +1,78 @@
+Title: None
+
+Table:
+- Column 1: composer
+- Column 2: years
+- Column 3: languages
+- Column 4: approx. number of compositions
+- Column 5: other info
+
+Row 1:
+- Composer: Ghanam Krishna Iyer
+- Years: 1790 - 1854
+- Languages: Tamil
+- Approx. number of compositions: 85
+- Other info: None
+
+Row 2:
+- Composer: Iyaramayi Tirumalai
+- Years: 1782 - 1856
+- Languages: Tamil, Sanskrit
+- Approx. number of compositions: 40
+- Other info: None
+
+Row 3:
+- Composer: Kaviraja Kannan
+- Years: 1780 - 1856
+- Languages: Tamil
+- Approx. number of compositions: 200
+- Other info: None
+
+Row 4:
+- Composer: Muthuswami Dhasi
+- Years: 1775 - 1856
+- Languages: Tamil, Sanskrit
+- Approx. number of compositions: 400
+- Other info: None
+
+Row 5:
+- Composer: Oktaviana Venkata-Kudram
+- Years: 1775 - 1856
+- Languages: Tamil, Sanskrit
+- Approx. number of compositions: 200
+- Other info: None
+
+Row 6:
+- Composer: Pachimadiyar
+- Years: 1784 - 1856
+- Languages: Tamil
+- Approx. number of compositions: 200
+- Other info: None
+
+Row 7:
+- Composer: Thuvayur Thirumalai
+- Years: 1781 - 1856
+- Languages: Tamil
+- Approx. number of compositions: 200
+- Other info: None
+
+Row 8:
+- Composer: Thiruvalluvar
+- Years: 1779 - 1856
+- Languages: Tamil
+- Approx. number of compositions: 2400 of which 2000 are available today
+- Other info: None
+
+Row 9:
+- Composer: Swati Saraswati
+- Years: 1767 - 1856
+- Languages: Tamil
+- Approx. number of compositions: 95
+- Other info: None
+
+Row 10:
+- Composer: Syama Sastri
+- Years: 1762 - 1827
+- Languages: Tamil
+- Approx. number of compositions: 400
+- Other info: None

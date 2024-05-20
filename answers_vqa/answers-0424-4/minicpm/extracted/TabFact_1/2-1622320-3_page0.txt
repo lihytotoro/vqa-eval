@@ -1,0 +1,78 @@
+Title: Records
+
+Table:
+- Column 1: Score
+- Column 2: Batsmen
+- Column 3: Against
+- Column 4: Location
+- Column 5: Year
+
+Row 1:
+- Score: 374
+- Batsmen: Elliot and Steve James
+- Against: Sussex
+- Location: Colwyn Bay
+- Year: 2000
+
+Row 2:
+- Score: 252
+- Batsmen: Maynard and Hempd
+- Against: Northamptonshire
+- Location: Sophia Gardens
+- Year: 2000
+
+Row 3:
+- Score: 331
+- Batsmen: Emrys and Davies
+- Against: Essex
+- Location: Brentwood
+- Year: 1948
+
+Row 4:
+- Score: 425
+- Batsmen: Aldridge and Viv Richards
+- Against: Middlesex
+- Location: Sophia Gardens
+- Year: 1993
+
+Row 5:
+- Score: 264
+- Batsmen: Maurice and Stan Montgomery
+- Against: Hampshire
+- Location: Bournemouth
+- Year: 1949
+
+Row 6:
+- Score: 240
+- Batsmen: Jim Allenby and Mark Wallace
+- Against: Surrey
+- Location: The Oval
+- Year: 2009
+
+Row 7:
+- Score: 211
+- Batsmen: Cotty and Ottis Gibson
+- Against: Leicestershire
+- Location: Swansea
+- Year: 1996
+
+Row 8:
+- Score: 205
+- Batsmen: Dai Davies and Joe Hills
+- Against: East Sussex
+- Location: Eastbourne
+- Year: 1928
+
+Row 9:
+- Score: 143
+- Batsmen: Johnie Clay and Joe Hills
+- Against: Sussex
+- Location: Sussex
+- Year: 1929
+
+Row 10:
+- Score: 143
+- Batsmen: Terence and Simon Daniels
+- Against: Gloucestershire
+- Location: Swansea
+- Year: 1982

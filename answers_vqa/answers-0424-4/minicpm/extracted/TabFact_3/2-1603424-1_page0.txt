@@ -1,0 +1,23 @@
+Title: All-time Medal Tables
+
+Table:
+- Column 1: Rank
+- Column 2: Nation
+- Column 3: Gold
+- Column 4: Silver
+- Column 5: Bronze
+- Column 6: Total
+
+1. Canada - Gold: 17, Silver: 10, Bronze: 7 - Total: 34
+2. Scotland - Gold: 9, Silver: 4, Bronze: 11 - Total: 24
+3. Sweden - Gold: 5, Silver: 11, Bronze: 7 - Total: 20
+4. Switzerland - Gold: 4, Silver: 6, Bronze: 17 - Total: 37
+5. United States - Gold: 3, Silver: 0, Bronze: 7 - Total: 10
+6. Denmark - Gold: 1, Silver: 2, Bronze: 0 - Total: 2
+7. Germany - Gold: 0, Silver: 1, Bronze: 2 - Total: 3
+8. Norway - Gold: 0, Silver: 1, Bronze: 4 - Total: 5
+9. France - Gold: 0, Silver: 1, Bronze: 2 - Total: 1
+10. Finland - Gold: 0, Silver: 1, Bronze: 1 - Total: 1
+11. Russia - Gold: 0, Silver: 1, Bronze: 0 - Total: 1
+
+Total - Gold: 39, Silver: 39, Bronze: 43 - Total: 121

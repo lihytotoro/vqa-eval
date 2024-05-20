@@ -1,0 +1,138 @@
+Title:
+Year
+Competition
+Venue
+Position
+Notes
+
+Row 1:
+2000
+World Junior Championships
+Chile
+5th (heats)
+
+Row 2:
+2001
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 3:
+2002
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 4:
+2003
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 5:
+2004
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 6:
+2005
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 7:
+2006
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 8:
+2007
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 9:
+2008
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 10:
+2009
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 11:
+2010
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 12:
+2011
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 13:
+2012
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 14:
+2013
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 15:
+2014
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 16:
+2015
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 17:
+2016
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 18:
+2017
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 19:
+2018
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 20:
+2019
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 21:
+2020
+World Indoor Championships
+Chile
+5th (heats)
+
+Row 22:
+2021
+World Indoor Championships
+Chile
+5th (heats)

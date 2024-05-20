@@ -1,0 +1,125 @@
+Title: Mixed martial arts record
+
+Table:
+- Column 1: Record
+- Column 2: Opponent
+- Column 3: Method
+- Column 4: Event
+- Column 5: Location
+- Column 6: Round
+
+Row 1:
+- Record: 11-9
+- Opponent: Blaine Lee Hinkle (KO punches)
+- Method: DFL 1 - The Big Bang
+- Event: DFL 1 - The Big Bang
+- Location: Atlantic City, New Jersey, United States
+- Round: 1
+
+Row 2:
+- Record: 11-8
+- Opponent: Ray Seafo (KO punches)
+- Method: Strikeforce Challengers: Kennedy vs. Cummings
+- Event: Strikeforce Challengers: Kennedy vs. Cummings
+- Location: Bixby, Oklahoma, United States
+- Round: 2
+
+Row 3:
+- Record: 11-7
+- Opponent: Patrick Winslow (KO punches)
+- Method: American Steel Cage Fighting
+- Event: American Steel Cage Fighting
+- Location: Salem, Massachusetts, United States
+- Round: 3
+
+Row 4:
+- Record: 11-6
+- Opponent: Willie Jay (KO punches)
+- Method: RIE - Battle at the Barton
+- Event: RIE - Battle at the Barton
+- Location: Harrisonburg, Virginia, United States
+- Round: 4
+
+Row 5:
+- Record: 11-5
+- Opponent: Marcos Santos (KO punches)
+- Method: Decision (unanimous)
+- Event: Decision (unanimous)
+- Location: Plymouth, Massachusetts, United States
+- Round: 5
+
+Row 6:
+- Record: 11-4
+- Opponent: Win Carlos (KO punches)
+- Method: Decision (unanimous)
+- Event: Decision (unanimous)
+- Location: Atlantic City, New Jersey, United States
+- Round: 6
+
+Row 7:
+- Record: 11-3
+- Opponent: Chris Herring (KO punches)
+- Method: Strikeforce Challengers: Wild Bill vs. Night Fight 6
+- Event: Strikeforce Challengers: Wild Bill vs. Night Fight 6
+- Location: Duluth, Georgia, United States
+- Round: 7
+
+Row 8:
+- Record: 11-2
+- Opponent: Joe Dixon (KO punches)
+- Method: Undefied
+- Event: Undefied
+- Location: Brockton, Massachusetts, United States
+- Round: 8
+
+Row 9:
+- Record: 11-1
+- Opponent: Gabriel Gonzaga (KO punches)
+- Method: Undefied
+- Event: Undefied
+- Location: Las Vegas, Nevada, United States
+- Round: 9
+
+Row 10:
+- Record: 10-8
+- Opponent: Billy Johnson (KO punches)
+- Method: Decision (unanimous)
+- Event: Decision (unanimous)
+- Location: Atlantic City, New Jersey, United States
+- Round: 10
+
+Row 11:
+- Record: 10-7
+- Opponent: Eric Lovelock (KO punches)
+- Method: DFL 11 - Explosion
+- Event: DFL 11 - Explosion
+- Location: N/A
+- Round: 11
+
+Row 12:
+- Record: 10-6
+- Opponent: Kerry Schall (KO punches)
+- Method: Submission (rear-naked choke)
+- Event: Submission (rear-naked choke)
+- Location: Fontana, Wisconsin, United States
+- Round: 12
+
+Row 13:
+- Record: 10-5
+- Opponent: Chris Self (KO punches)
+- Method: Submission (ambition cage fight)
+- Event: Submission (ambition cage fight)
+- Location: Birmingham, Alabama, United States
+- Round: 13
+
+Row 14:
+- Record: 10-4
+- Opponent: Sean Wallace (KO punches)
+- Method: Submission (ambition cage fight)
+- Event: Submission (ambition cage fight)
+- Location: Clarksville, Tennessee, United States
+- Round: 14
+
+Row 15:
+- Record: 10-3
+- Opponent

@@ -1,0 +1,17 @@
+Title: rider, from
+
+Table:
+- Column 1: rider
+- Column 2: from
+
+Row 1:
+- rider: Valentina Scandolera (ITA)
+- from: Mipicollini Giordana
+
+Row 2:
+- rider: Grace Szulborski (AUS)
+- from: Jayco-AIS
+
+Row 3:
+- rider: Carlie Taylor (AUS)
+- from: Lotto Belisol Ladies

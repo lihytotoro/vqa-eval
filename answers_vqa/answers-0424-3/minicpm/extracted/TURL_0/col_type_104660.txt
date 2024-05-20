@@ -1,0 +1,143 @@
+Title: location, name of mill, type, built, notes, photograph
+
+Row 1:
+- Location: Kimsde
+- Name of mill: De Kimsde
+- Type: Gronddzoel
+- Built: 1872
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 2:
+- Location: Tolkumpe
+- Name of mill: Tolkumpe
+- Type: Gronddzoel
+- Built: 1893
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 3:
+- Location: Kolmumpe
+- Name of mill: Kolmumpe
+- Type: Gronddzoel
+- Built: 1845
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 4:
+- Location: Stellingen
+- Name of mill: Stellingen
+- Type: Gronddzoel
+- Built: 1871
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 5:
+- Location: Burnt down 7 November 1936
+- Name of mill: Burnt down
+- Type: Gronddzoel
+- Built: 1882
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 6:
+- Location: Stellingen
+- Name of mill: Stellingen
+- Type: Gronddzoel
+- Built: 1938
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 7:
+- Location: Stellingen
+- Name of mill: Stellingen
+- Type: Gronddzoel
+- Built: 1920
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 8:
+- Location: Stellingen
+- Name of mill: Stellingen
+- Type: Gronddzoel
+- Built: 1921
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 9:
+- Location: Stellingen
+- Name of mill: Stellingen
+- Type: Gronddzoel
+- Built: 1922
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 10:
+- Location: Stellingen
+- Name of mill: Stellingen
+- Type: Gronddzoel
+- Built: 1923
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 11:
+- Location: Stellingen
+- Name of mill: Stellingen
+- Type: Gronddzoel
+- Built: 1925
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 12:
+- Location: Stellingen
+- Name of mill: Stellingen
+- Type: Gronddzoel
+- Built: 1930
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 13:
+- Location: Stellingen
+- Name of mill: Stellingen
+- Type: Gronddzoel
+- Built: 1932
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 14:
+- Location: Stellingen
+- Name of mill: Stellingen
+- Type: Gronddzoel
+- Built: 1933
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 15:
+- Location: Stellingen
+- Name of mill: Stellingen
+- Type: Gronddzoel
+- Built: 1934
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 16:
+- Location: Stellingen
+- Name of mill: Stellingen
+- Type: Gronddzoel
+- Built: 1935
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 17:
+- Location: Stellingen
+- Name of mill: Stellingen
+- Type: Gronddzoel
+- Built: 1936
+- Notes: Molen (Dutch)
+- Photograph: 
+
+Row 18:
+- Location: Stellingen
+- Name of mill: Stellingen
+- Type: Gronddzoel
+- Built:

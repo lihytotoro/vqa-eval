@@ -1,0 +1,40 @@
+The image shows a bar chart with data for different countries. Each country has two bars representing "Pre-lockdown 2020" and "Post-lockdown 2020" sales in billions of GBP.
+
+Here is the text and data represented in the chart:
+
+- United Kingdom:
+  - Pre-lockdown 2020: 84.46
+  - Post-lockdown 2020: Data point not directly written on the chart
+
+- Germany:
+  - Pre-lockdown 2020: 73.46
+  - Post-lockdown 2020: 73.23
+
+- France:
+  - Pre-lockdown 2020: 69.03
+  - Post-lockdown 2020: Data point not directly written on the chart
+
+- Italy:
+  - Pre-lockdown 2020: 64.3
+  - Post-lockdown 2020: 52.35
+
+- Spain:
+  - Pre-lockdown 2020: 38.64
+  - Post-lockdown 2020: 33.11
+
+- Netherlands:
+  - Pre-lockdown 2020: 24.89
+  - Post-lockdown 2020: 22.19
+
+- Belgium:
+  - Pre-lockdown 2020: 12.65
+  - Post-lockdown 2020: 10.16
+
+Below the chart, there is a legend indicating the color coding for the bars:
+- Blue dot: Pre-lockdown 2020
+- Gray dot: Post-lockdown 2020
+
+At the bottom right corner, there is a copyright notice:
+- © Statista 2021
+
+There are also interactive elements such as "Additional Information" and "Show source" which are not part of the chart data.

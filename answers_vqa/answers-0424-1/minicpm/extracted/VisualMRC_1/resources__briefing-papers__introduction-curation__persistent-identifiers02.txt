@@ -1,0 +1,4 @@
+Title: 1. Introduction
+
+Body Text:
+The persistent identification of digital resources can play a vital role in enabling their accessibility and re-usability over time. However, progress in defining the natural and functional requirements for identifier systems is hindered by a lack of shared agreement on what identifiers should actually do. To some, an identifier is simply a means of providing a unique name or a digital resource—either globally or locally. To others, identifiers must also incorporate associated services such as metadata resolution and binding. Specific requirements will differ, but it is vital that institutions recognise the application and maintenance of identifier systems just one part of overall strategic reserve. Without adequate institutional commitment and clearly defined roles and responsibilities, identifiers cannot offer any guarantees of persistence, locability, or actionability in the long-term.

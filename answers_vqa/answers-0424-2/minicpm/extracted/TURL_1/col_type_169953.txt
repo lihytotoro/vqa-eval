@@ -1,0 +1,13 @@
+Table:
+
+- Column 1: rider
+  - Valentina Scandolera (ITA)
+  - Grace Szulcberger (AUS)
+  - Carlee Taylor (AUS)
+  - Lotto Belisol Ladies
+
+- Column 2: from
+  - Mippolini Giordana
+  - Jayco-AIS
+  - Carlee Taylor (AUS)
+  - Lotto Belisol Ladies

@@ -1,0 +1,31 @@
+Title: BACK - UP
+Subtitle: SECTION 7
+
+Heading: PROGRAM ACTIVITIES
+
+List:
+- 2. Programs on Coronary Artery Disease and Atherosclerosis, including Prevention, Emergency Care and Rehabilitation:
+  - Exhibiting: 2,000
+  - Exhibit Development: 2,500
+  - CPR Materials Development: 15,000
+  - CPR Faculty Training Courses (3): 15,000
+
+- 3. Rehabilitation
+  - Exhibiting: 1,000
+  - Development of a program for rehabilitation of cardiac patient (jointly with President's Committee): 7,500
+  - Rehabilitation Guide: 2,500
+
+- 4. Risk Reduction
+  - Behavioral Science Conference Proceedings: 5,000
+  - Second National Conference on Behavioral Modification: 5,000
+
+- 5. Nutrition
+  - Nutrition Self-Testing Unit for Physicians: 2,000
+  - Exhibiting: 1,000
+  - Exhibit Development: 1,000
+  - Nutrition Guidance Program with National Restaurant Association: 500
+  - Nutrition Program with AMA re: Food Labeling and Food Analysis for National Data Bank: 2,500
+
+- 6. Nursing
+  - Exhibiting: 1,000
+  - Joint program with AMA re: Food Labeling and Food Analysis for National Data Bank: 1,000

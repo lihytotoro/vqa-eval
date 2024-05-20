@@ -1,0 +1,50 @@
+Title: Release history
+
+Table:
+- Region: Japan
+  - Date: September 10, 1986
+  - Label: Alfa Records
+  - Format: stereo LP
+  - Catalog: ALR-28085
+
+- Region: Japan
+  - Date: September 10, 1986
+  - Label: Alfa Records
+  - Format: stereo LP
+  - Catalog: ALR-28085
+
+- Region: Japan
+  - Date: March 21, 1992
+  - Label: Alfa Records
+  - Format: CD
+  - Catalog: ALCA-285
+
+- Region: Japan
+  - Date: August 31, 1994
+  - Label: Alfa Records
+  - Format: CD
+  - Catalog: ALCA-9015
+
+- Region: Japan
+  - Date: August 29, 1998
+  - Label: Alfa Records
+  - Format: CD
+  - Catalog: ALCA-9210
+
+- Region: Japan
+  - Date: February 20, 2002
+  - Label: Village Records
+  - Format: CD
+  - Catalog: VRC-2215
+
+- Region: Japan
+  - Date: March 13, 2002
+  - Label: Village Records
+  - Format: CD
+  - Catalog: VRC-2235
+
+- Region: Japan
+  - Date: May 27, 2007
+  - Label: Sony Music Direct
+  - Format: CD
+  - Catalog: MHL-2007

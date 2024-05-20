@@ -1,0 +1,26 @@
+The screenshot contains the following elements:
+1. **Title**: "Recommended videos for you"<box> 135 20 422 40</box> 
+2. **Subtitle**: "Toulouse to win their semi-final against Leinster so we can have an all-French final at the Millennium Stadium next month."<box> 135 70 615 111</box> 
+3. **Body Text**: "However, there is still a lot of hard work to be done before then."<box> 135 120 615 161</box> 
+4. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 180 615 221</box> 
+5. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 240 615 281</box> 
+6. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 300 615 341</box> 
+7. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 360 615 401</box> 
+8. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 420 615 461</box> 
+9. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 480 615 521</box> 
+10. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 540 615 581</box> 
+11. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 600 615 641</box> 
+12. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 660 615 701</box> 
+13. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 720 615 761</box> 
+14. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 780 615 821</box> 
+15. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 840 615 881</box> 
+16. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 900 615 941</box> 
+17. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 960 615 1001</box> 
+18. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 1020 615 1061</box> 
+19. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 1080 615 1121</box> 
+20. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 1140 615 1181</box> 
+21. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 1200 615 1241</box> 
+22. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 1260 615 1301</box> 
+23. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 1320 615 1361</box> 
+24. **Additional Text**: "There is still a lot of hard work to be done before then."<box> 135 1380 615 1421</box>
+25. **Additional Text**: "There is still a lot of hard work to be done before then."

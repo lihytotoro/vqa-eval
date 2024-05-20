@@ -1,0 +1,123 @@
+Table:
+- Column 1: rank
+- Column 2: nation
+
+Row 1:
+- rank: 1
+- nation: Russia
+
+Row 2:
+- rank: 2
+- nation: China
+
+Row 3:
+- rank: 3
+- nation: France
+
+Row 4:
+- rank: 4
+- nation: Italy
+
+Row 5:
+- rank: 5
+- nation: Ukraine
+
+Row 6:
+- rank: 6
+- nation: Estonia
+
+Row 7:
+- rank: 7
+- nation: South Korea
+
+Row 8:
+- rank: 8
+- nation: Hungary
+
+Row 9:
+- rank: 9
+- nation: Sweden
+
+Row 10:
+- rank: 10
+- nation: Finland
+
+Row 11:
+- rank: 11
+- nation: United States
+
+Row 12:
+- rank: 12
+- nation: Switzerland
+
+Row 13:
+- rank: 13
+- nation: Venezuela
+
+Row 14:
+- rank: 14
+- nation: Poland
+
+Row 15:
+- rank: 15
+- nation: Chinese Taipei
+
+Row 16:
+- rank: 16
+- nation: Hong Kong
+
+Row 17:
+- rank: 17
+- nation: Brazil
+
+Row 18:
+- rank: 18
+- nation: Kazakhstan
+
+Row 19:
+- rank: 19
+- nation: Canada
+
+Row 20:
+- rank: 20
+- nation: South Africa
+
+Row 21:
+- rank: 21
+- nation: Uzbekistan
+
+Row 22:
+- rank: 22
+- nation: Japan
+
+Row 23:
+- rank: 23
+- nation: Mexico
+
+Row 24:
+- rank: 24
+- nation: Israel
+
+Row 25:
+- rank: 25
+- nation: Finland
+
+Row 26:
+- rank: 26
+- nation: Singapore
+
+Row 27:
+- rank: 27
+- nation: Mongolia
+
+Row 28:
+- rank: 28
+- nation: Serbia
+
+Row 29:
+- rank: 29
+- nation: Denmark
+
+Row 30:
+- rank: 30
+- nation: Australia

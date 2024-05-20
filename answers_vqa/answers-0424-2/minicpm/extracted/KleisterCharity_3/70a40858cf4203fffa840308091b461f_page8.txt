@@ -1,0 +1,51 @@
+Title: OXFORDSHIRE MOTOR PROJECT/TRAX COMPANY LIMITED BY GUARANTEE
+Subtitle: BALANCE SHEET 31 MARCH 2014
+
+Table:
+- Column Headers: 2014, 2013 (restated)
+- Row Headers: FIXED ASSETS, Tangible assets, Note £, Current Assets, Debtors, Cash at bank and in hand, Creditors, Amounts falling due within one year, (17,260), 17,260, 29,023, (40,272), (40,272)
+
+Body Text:
+FIXED ASSETS
+15,777, 9,491, 51,840, 49,395
+
+CURRENT ASSETS
+Debtors, 24,590, 32,575, 57,165
+Cash at bank and in hand, 24,590, 32,575, 57,165
+
+CREDITORS
+Amounts falling due within one year, (17,260), 17,260, 29,023, (40,272), (40,272)
+
+NET CURRENT ASSETS/LIABILITIES
+(16,023), (29,023), 16,023, (40,272), (40,272)
+
+TOTAL ASSETS
+CREDITORS: Amounts falling due after more than one year, (17,260), 17,260, 29,023, (40,272), (40,272)
+
+NET CURRENT ASSETS/LIABILITIES
+(16,023), (29,023), 16,023, (40,272), (40,272)
+
+TOTAL LIABILITIES
+Funds
+Restricted income funds, 20, 21
+Unrestricted income funds, 20, 21
+Total funds, 20, 21
+
+TOTAL FUND RESPONSIBILITIES
+For the year ended 31 March 2014 the charity was entitled to exemption from taxation under section 477 of the Companies Act 2006 relating to small companies. 5,093, 50,463
+
+Trustees' responsibilities
+The members have not required the charity to obtain an audit of its accounts under section 477 of the Companies Act 2006 in relation to small companies. 5,093, 50,463
+
+The trustees acknowledge their responsibilities for complying with the requirements of the Act in relation to accounting records and preparing the accounts of the Company.
+
+Footer:
+These financial statements were approved by the members of the committee and authorised for issue on the 14 October 2014 and are signed on their behalf by:
+
+Gordon Richardson
+Trustee
+Company Registration Number: 0273803
+
+The notes to pages 8 to 14 form part of these financial statements.
+
+Page Number: - 7 -

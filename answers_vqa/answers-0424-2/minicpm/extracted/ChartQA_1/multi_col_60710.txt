@@ -1,0 +1,17 @@
+The image shows a bar chart with the following data points:
+
+- United Kingdom: Pre-lockdown 2020 - 84.46, Post-lockdown 2020 - 84.46
+- Germany: Pre-lockdown 2020 - 73.46, Post-lockdown 2020 - 73.23
+- France: Pre-lockdown 2020 - 69.03, Post-lockdown 2020 - 64.3
+- Italy: Pre-lockdown 2020 - 52.35, Post-lockdown 2020 - 64.3
+- Spain: Pre-lockdown 2020 - 33.11, Post-lockdown 2020 - 33.11
+- Netherlands: Pre-lockdown 2020 - 12.65, Post-lockdown 2020 - 10.16
+- Belgium: Pre-lockdown 2020 - 9.62, Post-lockdown 2020 - 9.62
+- Poland: Pre-lockdown 2020 - 7.58, Post-lockdown 2020 - 7.58
+
+At the bottom of the image, there are two clickable options:
+- Additional Information
+- Show source
+
+In the top right corner, there is a copyright notice:
+- © Statista 2021

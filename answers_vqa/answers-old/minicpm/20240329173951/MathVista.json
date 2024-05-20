@@ -1,0 +1,83 @@
+[
+    {
+        "question_id": null,
+        "question": "What is the sum of all the values in the ruling group?",
+        "answer": "The sum of the values in the \"ruling\" group is 10.",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/100.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which shape is most erect?",
+        "answer": "The Elliptic shape is most erect among the listed shapes.",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/101.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which type of color has the lowest value in the figure?",
+        "answer": "The \"Hot Pink\" type has the lowest value in the figure.",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/139.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "When does the function reach its local maximum?",
+        "answer": "The function \\( f(u_1, u_2) \\) reaches its local maximum at the point where the gradient of the function is zero. This can be determined by looking at the contour lines on the graph. The contour lines represent points where the value of the function \\( f(u_1, u_2) \\) is constant. The point where these contour lines intersect is where the function has a local maximum. In this case, the local maximum occurs when \\( u_1 = 0 \\) and \\( u_2 = 0 \\).",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/151.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which type of species would be directly impacted by an increase in owls?",
+        "answer": "Grasshoppers would be directly impacted by an increase in owls. This is because owls prey on grasshoppers as part of their diet.",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/153.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which type has the largest quantity according to the figure?",
+        "answer": "Forest Green",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/172.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which methods in the table achieve an A-847 score higher than 20.0?",
+        "answer": "The methods that achieve an A-847 score higher than 20.0 are OpenSeg and FC-CLIP (ours).",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/188.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "In which dataset does the lowest accuracy reported in the whole chart appear?",
+        "answer": "The lowest accuracy reported in the whole chart appears in the \"deputy\" dataset.",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/189.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is the approximate scale on the ruler where the nails in the picture start and end?",
+        "answer": "The nails start at the 1 millimeter mark and end at the 6 millimeter mark on the ruler.",
+        "gt_answers": null,
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/190.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    }
+]

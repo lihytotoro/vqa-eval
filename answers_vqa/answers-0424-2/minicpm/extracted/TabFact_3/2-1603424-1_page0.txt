@@ -1,0 +1,16 @@
+Title: All-time Medal Tables
+
+Table:
+- Rank | Nation | Gold | Silver | Bronze | Total
+- 1 | Canada | 17 | 10 | 7 | 34
+- 2 | Scotland | 9 | 11 | 4 | 24
+- 3 | Sweden | 5 | 7 | 6 | 17
+- 4 | Switzerland | 4 | 7 | 6 | 10
+- 5 | United States | 3 | 0 | 7 | 10
+- 6 | Denmark | 1 | 0 | 2 | 2
+- 7 | Germany | 0 | 2 | 3 | 5
+- 8 | Norway | 0 | 1 | 4 | 5
+- 9 | France | 0 | 1 | 5 | 1
+- 10 | Finland | 0 | 1 | 2 | 1
+- 11 | Russia | 0 | 1 | 1 | 1
+- Total | 39 | 34 | 43 | 121

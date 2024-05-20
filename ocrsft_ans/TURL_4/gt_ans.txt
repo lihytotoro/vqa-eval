@@ -1,0 +1,101 @@
+Here is the transcribed text from the image, structured as indicated by the table:
+
+- location: Kimswerd
+  - name of mill: De Eendracht
+  - type: Grondzeiler
+  - built: 1872
+  - notes: Molendatabase (Dutch) De Hollandsche Molen (Dutch)
+  - photograph: [Blank Column]
+
+- location: Kollum
+  - name of mill: Tochmaland
+  - type: Grondzeiler
+  - built: 1893
+  - notes: Molendatabase (Dutch) De Hollandsche Molen (Dutch)
+  - photograph: [Blank Column]
+
+- location: Kollumerpomp
+  - name of mill: De Westermolen
+  - type: Grondzeiler
+  - built: 1845
+  - notes: Molendatabase (Dutch) De Hollandsche Molen (Dutch)
+  - photograph: [Blank Column]
+
+- location: Koudum
+  - name of mill: (unnamed)
+  - type: Stellingmolen
+  - built: 1718
+  - notes: [Blank Column]
+  - photograph: [Blank Column]
+
+- location: Koudum
+  - name of mill: (unnamed)
+  - type: Stellingmolen
+  - built: 1823
+  - notes: Burnt down 7 November 1863
+  - photograph: [Blank Column]
+
+- location: Koudum
+  - name of mill: De Vlijt Molen van Ferwerda
+  - type: Spinnenkop stellingmolen
+  - built: 1865
+  - notes: Demolished 1938
+  - photograph: [Blank Column]
+
+- location: Koudum
+  - name of mill: De Vlijt Molen 't Op
+  - type: Spinnenkop stellingmolen
+  - built: 1986
+  - notes: Molendatabase (Dutch) De Hollandsche Molen (Dutch)
+  - photograph: [Blank Column]
+
+- location: Koudum
+  - name of mill: Windmotor Koudum
+  - type: Iron windpump
+  - built: 1925
+  - notes: Molendatabase (Dutch)
+  - photograph: [Blank Column]
+
+- location: Koudum
+  - name of mill: De Skarmole
+  - type: Iron windpump
+  - built: c. 1920
+  - notes: Molendatabase (Dutch)
+  - photograph: [Blank Column]
+
+- location: Koudum
+  - name of mill: Windmotor Koudum 2
+  - type: Iron windpump
+  - built: [Blank Column]
+  - notes: De Hollandsche Molen (Dutch)
+  - photograph: [Blank Column]
+
+- location: Langsloot
+  - name of mill: Spinnenkopmolen
+  - type: [Blank Column]
+  - built: 18th century
+  - notes: Moved to Snikzwaag in 1921. Molendatabase (Dutch) De Hollandsche Molen (Dutch)
+  - photograph: [Blank Column]
+
+- location: Langweer
+  - name of mill: De Sweachmermolen
+  - type: Stellingmolen
+  - built: 1782
+  - notes: Molendatabase (Dutch) De Hollandsche Molen (Dutch)
+  - photograph: [Blank Column]
+
+- location: Lekkum
+  - name of mill: De Bullemolen
+  - type: Grondzeiler
+  - built: 1825
+  - notes: Molendatabase (Dutch) De Hollandsche Molen (Dutch)
+  - photograph: [Blank Column]
+
+- location: Lollum
+  - name of mill: Meerswal
+  - type: Grondzeiler
+  - built: 1903
+  - notes: Molendatabase (Dutch) De Hollandsche Molen (Dutch)
+  - photograph: [Blank Column]
+
+[Blank Column] indicates that there is no text in that particular cell of the table.

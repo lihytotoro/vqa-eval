@@ -1,0 +1,23 @@
+Title: South Africa's population & age structure (millions) 1960 to 2016
+
+The image shows a line chart with data points for different age groups and years from 1960 to 2016. The vertical axis represents the number of people in millions, ranging from 5 to 20 million, while the horizontal axis represents the years from 1960 to 2016.
+
+Each data point is color-coded and labeled with the corresponding age group:
+
+- Blue dot: Ages 0-14
+- Red dot: Ages 15-29
+- Orange dot: Ages 30-44
+- Yellow dot: Ages 45-59
+- Green dot: Ages 60+
+
+Below the chart, there is a legend indicating the color associated with each age group:
+
+- Blue circle: Ages 0-14
+- Red circle: Ages 15-29
+- Orange circle: Ages 30-44
+- Yellow circle: Ages 45-59
+- Green circle: Ages 60+
+
+At the bottom of the image, there is a note that reads: "STATISTICS SA, WORLD BANK, UNITED NATIONS POPULATION PROSPECTS"
+
+In the bottom right corner, there is a copyright notice that reads: "GRAPHIC: MARY ALEXANDER - STATISTICS SOUTH AFRICA, WORLD BANK, UNITED NATIONS POPULATION PROSPECTS"

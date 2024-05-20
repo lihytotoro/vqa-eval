@@ -1,0 +1,73 @@
+Title: South Africa’s population & age structure (millions) 1960 to 2016
+
+The image features a population pyramid graph with the years 1960 to 2016 on the x-axis and population in millions on the y-axis. The graph is color-coded to represent different age groups:
+
+- Red: Ages 0-14
+- Orange: Ages 15-29
+- Yellow: Ages 30-44
+- Light green: Ages 45-59
+- Dark green: Ages 60-74
+- Blue: Ages 75+
+
+Below the graph, there are six pie charts corresponding to select years (1960, 1970, 1980, 1990, 2000, 2010, 2016), showing the percentage distribution of the age groups for that year.
+
+- 1960 Pie Chart:
+  - Red (Ages 0-14): 41%
+  - Orange (Ages 15-29): 25%
+  - Yellow (Ages 30-44): 17%
+  - Light green (Ages 45-59): 11%
+  - Dark green (Ages 60-74): 6%
+  - Blue (Ages 75+): Not specified
+
+- 1970 Pie Chart:
+  - Red (Ages 0-14): 42%
+  - Orange (Ages 15-29): 26%
+  - Yellow (Ages 30-44): 16%
+  - Light green (Ages 45-59): 10%
+  - Dark green (Ages 60-74): 6%
+  - Blue (Ages 75+): Not specified
+
+- 1980 Pie Chart:
+  - Red (Ages 0-14): 41%
+  - Orange (Ages 15-29): 27%
+  - Yellow (Ages 30-44): 16%
+  - Light green (Ages 45-59): 10%
+  - Dark green (Ages 60-74): 6%
+  - Blue (Ages 75+): Not specified
+
+- 1990 Pie Chart:
+  - Red (Ages 0-14): 39%
+  - Orange (Ages 15-29): 28%
+  - Yellow (Ages 30-44): 18%
+  - Light green (Ages 45-59): 10%
+  - Dark green (Ages 60-74): 5%
+  - Blue (Ages 75+): Not specified
+
+- 2000 Pie Chart:
+  - Red (Ages 0-14): 34%
+  - Orange (Ages 15-29): 29%
+  - Yellow (Ages 30-44): 20%
+  - Light green (Ages 45-59): 11%
+  - Dark green (Ages 60-74): 6%
+  - Blue (Ages 75+): Not specified
+
+- 2010 Pie Chart:
+  - Red (Ages 0-14): 30%
+  - Orange (Ages 15-29): 29%
+  - Yellow (Ages 30-44): 21%
+  - Light green (Ages 45-59): 13%
+  - Dark green (Ages 60-74): 7%
+  - Blue (Ages 75+): Not specified
+
+- 2016 Pie Chart:
+  - Red (Ages 0-14): 29%
+  - Orange (Ages 15-29): 28%
+  - Yellow (Ages 30-44): 22%
+  - Light green (Ages 45-59): 13%
+  - Dark green (Ages 60-74): 8%
+  - Blue (Ages 75+): Not specified
+
+At the bottom of the image, there is a source attribution:
+Website link: SouthAfrica-Gateway.com
+Graphic by: MARY ALEXANDER
+Data from: STATISTICS SOUTH AFRICA, WORLD BANK, UNITED NATIONS WORLD POPULATION PROSPECTS

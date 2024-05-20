@@ -1,0 +1,83 @@
+[
+    {
+        "question_id": null,
+        "question": "What is the sum of all the values in the ruling group?Please first give your detailed solution process, then give your answer at last.",
+        "answer": "10",
+        "gt_answers": "12",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/100.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which shape is most erect?Please first give your detailed solution process, then give your answer at last.",
+        "answer": "The shape that is most erect is Elliptic. This can be determined by observing the orientation of the leaves in each shape. The Elliptic leaves are the most upright among the shapes shown.",
+        "gt_answers": "Linear",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/101.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which type of color has the lowest value in the figure?Please first give your detailed solution process, then give your answer at last.",
+        "answer": "The line representing \"Hot Pink\" has the lowest value in the graph, which is indicated by the lowest point on the y-axis.",
+        "gt_answers": "no",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/139.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "When does the function reach its local maximum?Please first give your detailed solution process, then give your answer at last.",
+        "answer": "The function \\( f(u_1, u_2) \\) reaches its local maximum at \\( (u_1^*, u_2^*) \\), where \\( u_1^* = 0.5 \\) and \\( u_2^* = 0.5 \\). This can be determined by finding the critical points of the function, which are the points where the gradient of the function is zero. The gradient of \\( f(u_1, u_2) \\) is given by the partial derivatives with respect to \\( u_1 \\) and \\( u_2 \\), which are \\( \\frac{\\partial f}{\\partial u_1} = 0 \\) and \\( \\frac{\\partial f}{\\partial u_2} = 0 \\). Therefore, the function has a local maximum at \\( (u_1^*, u_2^*) \\).",
+        "gt_answers": "(u1, u2) = (0, 0)",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/151.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which type of species would be directly impacted by an increase in owls?Please first give your detailed solution process, then give your answer at last.",
+        "answer": "To determine which species would be directly impacted by an increase in owls, we need to consider the food chain depicted in the image. The food chain is as follows: Sun - Grass - Grasshopper - Mouse - Owl. An increase in the population of owls would likely lead to a decrease in the population of grasshoppers, which in turn would result in a decrease in the population of mice. Consequently, this could lead to a decrease in the population of owls themselves. Therefore, the species that would be directly impacted by an increase in owls would be the grasshoppers.",
+        "gt_answers": "mice",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/153.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which type has the largest quantity according to the figure?Please first give your detailed solution process, then give your answer at last.",
+        "answer": "Forest Green",
+        "gt_answers": "no",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/172.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "Which methods in the table achieve an A-847 score higher than 20.0?Please first give your detailed solution process, then give your answer at last.",
+        "answer": "The methods that achieve an A-847 score higher than 20.0 are OpenSeg and FC-CLIP (ours). OpenSeg has an A-847 score of 48.1, which is higher than 20.0, and FC-CLIP (ours) has an A-847 score of 54.1, which is also higher than 20.0.",
+        "gt_answers": "3",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/188.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "In which dataset does the lowest accuracy reported in the whole chart appear?Please first give your detailed solution process, then give your answer at last.",
+        "answer": "The lowest accuracy reported in the whole chart appears in the \"deputy\" dataset, with an accuracy of 1.",
+        "gt_answers": "1",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/189.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    },
+    {
+        "question_id": null,
+        "question": "What is the approximate scale on the ruler where the nails in the picture start and end?Please first give your detailed solution process, then give your answer at last.",
+        "answer": "The scale on the ruler where the nails start and end is approximately 1 to 6 centimeters.",
+        "gt_answers": "2",
+        "image_path": "/data/public/multimodal/cuijunbo/tmp/images/MathVista/190.jpg",
+        "model_name": "minicpm",
+        "question_type": null
+    }
+]

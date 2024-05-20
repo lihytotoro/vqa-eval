@@ -1,0 +1,28 @@
+Title: Division I
+
+Table:
+
+| Year | Champion | Runner-Up | Location | Semi-Finalist #1 | Semi-Finalist #2 |
+|------|-----------|-----------|-----------|-----------|-----------|
+| 2000 | Elon University | 5-4OT | North Carolina State | Durham, NC | NA |
+| 2001 | East Carolina | UNC Charlotte | North Carolina | Morrisville, NC | NA |
+| 2002 | UNC Charlotte | Elon University | North Carolina | Charlotte, NC | NA |
+| 2003 | North Carolina State | Elon University | North Carolina | East Carolina | NA |
+| 2004 | North Carolina State | Elon University | North Carolina | East Carolina | NA |
+| 2005 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |
+| 2006 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |
+| 2007 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |
+| 2008 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |
+| 2009 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |
+| 2010 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |
+| 2011 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |
+| 2012 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |
+| 2013 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |
+| 2014 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |
+| 2015 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |
+| 2016 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |
+| 2017 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |
+| 2018 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |
+| 2019 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |
+| 2020 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |
+| 2021 | North Carolina State | UNC Charlotte | North Carolina | East Carolina | NA |

@@ -1,0 +1,14 @@
+The image shows a bar chart with the title and specific data points not directly written, so I cannot provide them. However, I can describe the structure and elements present in the chart:
+
+- The vertical axis on the left side indicates percentages, ranging from 0% to 100%.
+- The horizontal axis at the bottom lists time periods from H2 2014 to H2 2019, marking half-year intervals.
+- The bars represent shares of certain data domains, with three categories distinguished by color:
+  - Dark blue for the "Euro area"
+  - Medium blue for "EU member states outside of euro area"
+  - Black for "Rest of the world"
+- There is a legend at the bottom which correlates the colors to the categories.
+- There is a watermark at the bottom right corner indicating "© Statista 2021".
+- An icon labeled "Additional Information" is present at the bottom left corner.
+- An icon labeled "Show source" is present at the bottom right corner.
+
+The exact data points, values, and the title of the chart are not visible, hence I cannot provide a transcription of those elements.

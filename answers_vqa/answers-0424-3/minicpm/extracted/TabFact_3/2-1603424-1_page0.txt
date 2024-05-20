@@ -1,0 +1,16 @@
+Title: All-time Medal Tables
+
+Table:
+- Column Headers: Rank, Nation, Gold, Silver, Bronze, Total
+- Row 1: 1, Canada, 17, 10, 7, 34
+- Row 2: 2, Scotland, 9, 11, 24
+- Row 3: 3, Sweden, 5, 14, 20
+- Row 4: 4, Switzerland, 4, 17, 7
+- Row 5: 5, United States, 3, 16, 10
+- Row 6: 6, Denmark, 2, 10, 0
+- Row 7: 7, Germany, 1, 2, 5
+- Row 8: 8, Norway, 0, 2, 3
+- Row 9: 9, France, 0, 1, 2
+- Row 10: 10, Finland, 0, 1, 2
+- Row 11: 11, Russia, 0, 1, 2
+- Row 12: Total, 3, 39, 43, 121

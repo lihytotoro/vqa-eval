@@ -1,0 +1,67 @@
+Title: Division I
+
+Table:
+- Column 1: Year
+  - 2000
+  - 2001
+  - 2002
+  - 2003
+  - 2004
+  - 2005
+  - 2006
+  - 2007
+  - 2008
+
+- Column 2: Champion
+  - Elon University
+  - UNC Charlotte
+  - North Carolina State University
+  - North Carolina State University
+  - Central Florida
+  - Florida State University
+  - North Carolina State University
+  - Florida State University
+  - Florida International University
+
+- Column 3: Runner-Up
+  - UNC Charlotte
+  - UNC Charlotte
+  - Elon University
+  - UNC Charlotte
+  - Florida State University
+  - Florida State University
+  - UNC Charlotte
+  - Florida State University
+  - Florida International University
+
+- Column 4: Location
+  - Durham, NC
+  - Morrisville, NC
+  - Charlotte, NC
+  - Charlotte, NC
+  - Orlando, FL
+  - Orlando, FL
+  - Orlando, FL
+  - Orlando, FL
+  - Snellville, GA
+
+- Column 5: Semi-Finalist #1
+  - NA
+  - NA
+  - NA
+  - NA
+  - NA
+  - NA
+  - NA
+  - NA
+
+- Column 6: Semi-Finalist #2
+  - NC
+  - NC
+  - NC
+  - NC
+  - South Carolina
+  - South Carolina
+  - South Carolina
+  - Florida Atlantic
+  - Florida Atlantic

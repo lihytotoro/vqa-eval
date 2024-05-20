@@ -1,0 +1,219 @@
+Title: None
+
+Table:
+- Column 1: rank
+- Column 2: nation
+
+Row 1:
+- rank: 1
+- nation: Russia
+
+Row 2:
+- rank: 2
+- nation: China
+
+Row 3:
+- rank: 3
+- nation: Romania
+
+Row 4:
+- rank: 4
+- nation: France
+
+Row 5:
+- rank: 5
+- nation: Italy
+
+Row 6:
+- rank: 6
+- nation: Ukraine
+
+Row 7:
+- rank: 7
+- nation: Estonia
+
+Row 8:
+- rank: 8
+- nation: South Korea
+
+Row 9:
+- rank: 9
+- nation: Hungary
+
+Row 10:
+- rank: 10
+- nation: Sweden
+
+Row 11:
+- rank: 11
+- nation: Germany
+
+Row 12:
+- rank: 12
+- nation: United States
+
+Row 13:
+- rank: 13
+- nation: Switzerland
+
+Row 14:
+- rank: 14
+- nation: Venezuela
+
+Row 15:
+- rank: 15
+- nation: Poland
+
+Row 16:
+- rank: 16
+- nation: Chinese Taipei
+
+Row 17:
+- rank: 17
+- nation: Hong Kong
+
+Row 18:
+- rank: 18
+- nation: Kazakhstan
+
+Row 19:
+- rank: 19
+- nation: Canada
+
+Row 20:
+- rank: 20
+- nation: South Africa
+
+Row 21:
+- rank: 21
+- nation: Uzbekistan
+
+Row 22:
+- rank: 22
+- nation: Japan
+
+Row 23:
+- rank: 23
+- nation: Spain
+
+Row 24:
+- rank: 24
+- nation: Mexico
+
+Row 25:
+- rank: 25
+- nation: Israel
+
+Row 26:
+- rank: 26
+- nation: Finland
+
+Row 27:
+- rank: 27
+- nation: Singapore
+
+Row 28:
+- rank: 28
+- nation: Mongolia
+
+Row 29:
+- rank: 29
+- nation: Serbia
+
+Row 30:
+- rank: 30
+- nation: Denmark
+
+Row 31:
+- rank: 31
+- nation: Australia
+
+Row 32:
+- rank: 32
+- nation: New Zealand
+
+Row 33:
+- rank: 33
+- nation: Switzerland
+
+Row 34:
+- rank: 34
+- nation: Hong Kong
+
+Row 35:
+- rank: 35
+- nation: Kazakhstan
+
+Row 36:
+- rank: 36
+- nation: Canada
+
+Row 37:
+- rank: 37
+- nation: South Africa
+
+Row 38:
+- rank: 38
+- nation: Uzbekistan
+
+Row 39:
+- rank: 39
+- nation: Japan
+
+Row 40:
+- rank: 40
+- nation: Spain
+
+Row 41:
+- rank: 41
+- nation: Mexico
+
+Row 42:
+- rank: 42
+- nation: Israel
+
+Row 43:
+- rank: 43
+- nation: Finland
+
+Row 44:
+- rank: 44
+- nation: Singapore
+
+Row 45:
+- rank: 45
+- nation: Mongolia
+
+Row 46:
+- rank: 46
+- nation: Serbia
+
+Row 47:
+- rank: 47
+- nation: Denmark
+
+Row 48:
+- rank: 48
+- nation: Australia
+
+Row 49:
+- rank: 49
+- nation: New Zealand
+
+Row 50:
+- rank: 50
+- nation: Switzerland
+
+Row 51:
+- rank: 51
+- nation: Hong Kong
+
+Row 52:
+- rank: 52
+- nation: Kazakhstan
+
+Row 53:
+- rank: 53
+- nation: Canada
+
+Row

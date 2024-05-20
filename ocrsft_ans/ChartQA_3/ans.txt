@@ -1,0 +1,12 @@
+Title: Incidence of child labor in the UK, 1901
+Body Text:
+- Share of boys and girls (ages 10-14) recorded as working
+- 21.9%
+
+Subtitle:
+- Incidence of child labor in the UK, 1901
+
+Footer:
+- Our World in Data
+- OurWorldInData.org/child labor
+- CC BY 2.0

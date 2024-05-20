@@ -1,0 +1,41 @@
+Title: BACK - UP
+Subtitle: SECTION 7
+Header: PROGRAM ACTIVITIES
+
+Numbered List:
+2. Programs on Coronary Artery Disease and Atherosclerosis, including Prevention, Emergency Care and Rehabilitation:
+
+Subheader: Emergency Cardiac Care
+- Exhibiting - 2,000
+- Exhibit Development - 2,500
+- CPR Materials Development - 15,000
+- CPR Faculty Training Courses (3) - 15,000
+
+Subheader: Rehabilitation
+- Exhibiting - 1,000
+- Exhibit Development - 1,500
+- Rehabilitation Program Guidelines and Directory of Services (C.R.U.) - 7,500
+- Rehabilitation Guide - 2,500
+- Development of a program for rehabilitation of cardiac patient (jointly with President's Committee) - 2,000
+
+Subheader: Risk Reduction
+- Behavioral Science Conference Proceedings - 5,000
+- Second National Conference on Behavioral Modification - 5,000
+
+Subheader: Nutrition
+- Nutrition Self-Testing Unit for Physicians - 2,000
+- Exhibiting - 1,000
+- Exhibit Development - 500
+- Nutrition Guide - 2,500
+- Nutrition Program with National Restaurant Association - 2,500
+- Joint program with AMA re: Food Labeling and Food Analysis for National Data Bank - 1,000
+
+Subheader: Nursing
+- Exhibiting - 1,000
+
+Footer: SUB-TOTAL $69,500
+
+Footer (left-aligned): aw
+Footer (right-aligned): (16/16)
+
+Source link (footer): https://www.industrydocuments.ucsf.edu/docs/lyft0227

@@ -1,0 +1,157 @@
+Title: location
+
+Table:
+- Column 1: name of mill
+- Column 2: type
+- Column 3: built
+- Column 4: notes
+- Column 5: photograph
+
+Row 1:
+- name of mill: Kimsdorf
+- type: Grundzoller
+- built: 1872
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 2:
+- name of mill: Kolm
+- type: Tochland
+- built: 1893
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 3:
+- name of mill: Kompum
+- type: De Wester
+- built: 1845
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 4:
+- name of mill: Koude
+- type: Vrouw
+- built: 1871
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 5:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 6:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 7:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 8:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 9:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 10:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 11:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 12:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 13:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 14:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 15:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 16:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 17:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 18:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 19:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 20:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 21:
+- name of mill: Koude
+- type: De Vrouw
+- built: 1863
+- notes: (Blank)
+- photograph: (Blank)
+
+Row 22:

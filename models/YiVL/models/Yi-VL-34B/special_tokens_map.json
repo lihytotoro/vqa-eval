@@ -1,0 +1,14 @@
+{
+  "additional_special_tokens": [
+    "<unk>",
+    "<|startoftext|>",
+    "<|endoftext|>",
+    "<|im_start|>",
+    "<|im_end|>",
+    "<|im_sep|>"
+  ],
+  "bos_token": "<|startoftext|>",
+  "eos_token": "<|endoftext|>",
+  "pad_token": "<unk>",
+  "unk_token": "<unk>"
+}

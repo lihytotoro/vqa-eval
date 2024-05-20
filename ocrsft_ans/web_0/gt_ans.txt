@@ -1,0 +1,14 @@
+Title: Recently viewed or related items
+
+Promotion Box:
+- Title: Free Shipping Over $99*
+- Body Text: Shop online and enjoy fast, reliable shipping on thousands of home essentials.
+- Link Text: More Details
+
+Button: See Recommendations
+
+Footer Section:
+- Title: Sign Up for Our Newsletter
+- Subtitle: Be among the first to see our latest offers and events to come
+- Placeholder Text in Input Field: Email Address
+- Button: Subscribe
